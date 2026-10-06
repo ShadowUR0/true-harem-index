@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>True Harem Index</title>
+  <meta name="description" content="دليل موحد لاعمال True Harem عبر الانمي والمانغا والمانهوا والمانها والروايات والالعاب، مع فصل كل اقتباس وتصنيف القوة.">
+  <meta name="theme-color" content="#2b2d42">
+  <meta property="og:title" content="True Harem Index">
+  <meta property="og:description" content="دليل True Harem متعدد الوسائط، مع حالة التاكيد وتصنيف القوة لكل عمل.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="/">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%233db4f2'/%3E%3Ctext x='32' y='40' text-anchor='middle' font-size='24' font-family='Arial' font-weight='700' fill='white'%3ETH%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#" aria-label="True Harem Index">
+        <span class="brand-mark">TH</span>
+      </a>
+
+      <nav class="main-nav" aria-label="التنقل الرئيسي">
+        <button class="nav-link active" data-tab="catalog">الدليل</button>
+        <button class="nav-link" data-tab="sources">المصادر</button>
+      </nav>
+
+      <div class="header-actions">
+        <button id="headerSearch" class="header-icon-btn" type="button" aria-label="بحث">
+          <svg viewBox="0 0 512 512" aria-hidden="true"><path fill="currentColor" d="M505 443 405 343c-4-5-11-7-17-7h-16c28-35 44-80 44-128C416 93 323 0 208 0S0 93 0 208s93 208 208 208c48 0 93-16 128-44v16c0 6 3 13 7 17l100 100c9 9 25 9 34 0l28-28c9-9 9-25 0-34zM208 336a128 128 0 1 1 0-256 128 128 0 0 1 0 256z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="page">
+    <section id="catalogView">
+      <h1 class="browse-title">
+        <span>Browse</span>
+        <strong>True Harem</strong>
+      </h1>
+
+      <div class="browse-controls">
+        <label class="ani-search-wrap main-search-wrap">
+          <span class="ani-search-icon" aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="Search" aria-label="بحث في الاعمال">
+          <button id="clearSearch" class="ani-search-close" type="button" hidden>×</button>
+        </label>
+
+        <button id="filtersToggle" class="ani-open-btn main-filter-btn" type="button" aria-expanded="false" aria-label="More filters">
+          <svg viewBox="0 0 512 512" aria-hidden="true"><path fill="currentColor" d="M496 384H160v-16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v16H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h68v16c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-16h336c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zM496 160H352v-16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v16H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h272v16c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-16h144c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16z"/></svg>
+          <span id="filterCount" class="filter-count" hidden>0</span>
+        </button>
+
+        <div id="extraFilters" class="ani-extra-dropdown practical-filters" hidden>
+          <div class="ani-extra-grid practical-grid">
+            <div>
+              <div class="ani-filter-name extra-name">Status</div>
+              <div id="statusFilter"></div>
+            </div>
+            <div>
+              <div class="ani-filter-name extra-name">True Harem</div>
+              <div id="verificationFilter"></div>
+            </div>
+            <div>
+              <div class="ani-filter-name extra-name">Content</div>
+              <div id="contentFilter"></div>
+            </div>
+            <div>
+              <div class="ani-filter-name extra-name">Origin</div>
+              <div id="originFilter"></div>
+            </div>
+            <div>
+              <div class="ani-filter-name extra-name">Power</div>
+              <div id="powerFilter"></div>
+            </div>
+            <div>
+              <div class="ani-filter-name extra-name">Sort</div>
+              <div id="sortFilter"></div>
+            </div>
+          </div>
+          <div class="ani-extra-actions">
+            <button id="resetFilters" class="ani-reset-btn" type="button">Reset Filters</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="typeTabs" class="media-type-tabs" aria-label="Media type"></div>
+
+      <div id="activeFilters" class="ani-active-filters"></div>
+
+      <div class="section-heading">
+        <h2>ALL RESULTS</h2>
+        <div class="section-meta">
+          <span id="resultCount"></span>
+        </div>
+      </div>
+
+      <div id="grid" class="media-grid"></div>
+      <div id="empty" class="empty" hidden>لا توجد نتائج بهذه الفلاتر.</div>
+    </section>
+
+    <section id="sourcesView" hidden>
+      <div class="browse-title"><span>Browse</span><strong>Sources</strong></div>
+      <div id="sourcesList" class="sources-grid"></div>
+    </section>
+  </main>
+
+  <dialog id="detailDialog" class="detail-dialog" aria-labelledby="detailTitle">
+    <button id="dialogClose" class="dialog-close" aria-label="اغلاق">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+
+  <div id="toast" class="toast" hidden></div>
+
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

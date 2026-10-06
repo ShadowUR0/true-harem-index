@@ -1,0 +1,371 @@
+{
+  "manhwa::Webtoon Character Na Kang Lim": {
+    "poster": "./assets/posters-webp/33f7522099815ab7.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/138705-kaKGTzhH4Lmw.jpg",
+    "color": "#50e493",
+    "anilist": "https://anilist.co/manga/138705",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138705-zRSNhzP4U8zx.jpg"
+  },
+  "manhwa::The Advanced Player of the Tutorial Tower": {
+    "poster": "./assets/posters-webp/19d7198107dcd5e4.webp",
+    "banner": null,
+    "color": "#5d78f1",
+    "anilist": "https://anilist.co/manga/119276",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119276-wqzyyB3xuPVo.jpg"
+  },
+  "manhwa::Absolute Sword Sense": {
+    "poster": "./assets/posters-webp/cd5118941b97a228.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/151460-zE0YRolZcxEq.jpg",
+    "color": "#d6ae6b",
+    "anilist": "https://anilist.co/manga/151460",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg"
+  },
+  "manhwa::Revenge of the Iron Blooded Hound": {
+    "poster": "./assets/posters-webp/16da76627b0571e0.webp",
+    "banner": null,
+    "color": "#5078e4",
+    "anilist": "https://anilist.co/manga/163824",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg"
+  },
+  "manhwa::I Killed an Academy Player": {
+    "poster": "./assets/posters-webp/35270f81673d752d.webp",
+    "banner": null,
+    "color": "#f16b5d",
+    "anilist": "https://anilist.co/manga/173020",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173020-vqe5J7U1cizO.png"
+  },
+  "manhwa::The Max Level Hero Strikes Back!": {
+    "poster": "./assets/posters-webp/b0e7ecd62356862a.webp",
+    "banner": null,
+    "color": "#f1d6c9",
+    "anilist": "https://anilist.co/manga/125636",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125636-g0gkyLZbo3Tz.png"
+  },
+  "manhwa::After Ten Millennia in Hell": {
+    "poster": "./assets/posters-webp/e30c5686b1f02e8e.webp",
+    "banner": null,
+    "color": "#fea150",
+    "anilist": "https://anilist.co/manga/153284",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153284-roAlRmlRM7Vs.png"
+  },
+  "manhwa::Overgeared": {
+    "poster": "./assets/posters-webp/7b79589193c316e6.webp",
+    "banner": null,
+    "color": "#93f1f1",
+    "anilist": "https://anilist.co/manga/105664",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105664-4x0zfa6fmqp8.png"
+  },
+  "manhwa::How to Use a Returner": {
+    "poster": "./assets/posters-webp/359cfd7decc3aaf2.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/141007-3HYddNTNKPVf.jpg",
+    "color": "#e4bb50",
+    "anilist": "https://anilist.co/manga/141007",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141007-mCfbMLgrCv1h.jpg"
+  },
+  "manhwa::The Extra's Academy Survival Guide": {
+    "poster": "./assets/posters-webp/679ec39b079ebc08.webp",
+    "banner": null,
+    "color": "#ff861a",
+    "anilist": "https://anilist.co/manga/172619",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg"
+  },
+  "manhwa::The Reluctant Demon Cult Leader": {
+    "poster": "./assets/posters-webp/3d0cefb380e838eb.webp",
+    "banner": null,
+    "color": "#e4506b",
+    "anilist": "https://anilist.co/manga/181632",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181632-vkZO5tBStCSC.png"
+  },
+  "manhua::My Girlfriend Is a Zombie": {
+    "poster": "./assets/posters-webp/c2a673b7979b1fa9.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/111573-tliK55Ec9KtF.jpg",
+    "color": "#6b5d1a",
+    "anilist": "https://anilist.co/manga/111573",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111573-s6aIbPEyvV61.jpg"
+  },
+  "manhua::Evil Young Master Doesn't Want a Bad Ending": {
+    "poster": "./assets/posters-webp/c6232b6dd2e07fd5.webp",
+    "banner": null,
+    "color": "#e4506b",
+    "anilist": "https://anilist.co/manga/145721",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145721-a0KHQZNrzLAM.jpg"
+  },
+  "manhua::Sir, Don't Show Off": {
+    "poster": "./assets/posters-webp/bfa23de4087b9b56.webp",
+    "banner": null,
+    "color": "#d6431a",
+    "anilist": "https://anilist.co/manga/170483",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170483-1DBPiNC14uRf.jpg"
+  },
+  "manhua::Become the Castellan in Another World": {
+    "poster": "./assets/posters-webp/75bcd59c2351216e.webp",
+    "banner": null,
+    "color": "#50a1f1",
+    "anilist": "https://anilist.co/manga/118368",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118368-ECZ8w2NpF5E1.png"
+  },
+  "manhua::Catastrophic Necromancer": {
+    "poster": "./assets/posters-webp/a44b668702ad3d53.webp",
+    "banner": null,
+    "color": "#5de4ae",
+    "anilist": "https://anilist.co/manga/167372",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b167372-zfQUGcQMWiAI.png"
+  },
+  "manhua::Ultimate Scheming System": {
+    "poster": "./assets/posters-webp/05970fa5ef9e3699.webp",
+    "banner": null,
+    "color": "#f1bb5d",
+    "anilist": "https://anilist.co/manga/105674",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105674-CHRp759Ywqxr.jpg"
+  },
+  "manhua::My Harem Grew So Large, I Was Forced to Ascend": {
+    "poster": "./assets/posters-webp/8fbc2d48d1276255.webp",
+    "banner": null,
+    "color": "#fe5093",
+    "anilist": "https://anilist.co/manga/130258",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130258-qkbweJ1o1GKE.jpg"
+  },
+  "manhua::My Harem Consists Entirely of Female Demon Villains": {
+    "poster": "./assets/posters-webp/ac1ec8663af713a0.webp",
+    "banner": null,
+    "color": "#28aef1",
+    "anilist": "https://anilist.co/manga/153717",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b153717-NbTyZwlujnq2.jpg"
+  },
+  "manhua::Martial Peak": {
+    "poster": "./assets/posters-webp/83eff5c45df63a71.webp",
+    "banner": null,
+    "color": "#f16b43",
+    "anilist": "https://anilist.co/manga/104494",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104494-xmWuGEwxzbfB.jpg"
+  },
+  "manhua::I Am the Fated Villain": {
+    "poster": "./assets/posters-webp/a9d1f738c416dea0.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/142287-4O13ckpwfZvh.jpg",
+    "color": "#ae5de4",
+    "anilist": "https://anilist.co/manga/142287",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142287-nlT7oSUzHnNv.jpg"
+  },
+  "manhua::Qi Refinement For 3,000 Years": {
+    "poster": "./assets/posters-webp/2963ee772b07ecf6.webp",
+    "banner": null,
+    "color": "#d6a16b",
+    "anilist": "https://anilist.co/manga/120285",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120285-8QUW1DTHt5nO.png"
+  },
+  "anime::Tenchi Muyo!": {
+    "poster": "./assets/posters-webp/a0a87e4005be95c5.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/696-d3QphXIJN64c.jpg",
+    "color": "#f16b00",
+    "anilist": "https://anilist.co/anime/696",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx696-q40thYobzxmz.jpg"
+  },
+  "anime::Arifureta Shokugyou de Sekai Saikyou": {
+    "poster": "./assets/posters-webp/7e9da5022ccc075e.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100668-9ZQSB5x5St7c.jpg",
+    "color": null,
+    "anilist": "https://anilist.co/anime/100668",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-DvOn5bMOt4cy.jpg"
+  },
+  "anime::How a Realist Hero Rebuilt the Kingdom": {
+    "poster": "./assets/posters-webp/2bec84648ddb1329.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117612-MQ8iXGt2NHkB.jpg",
+    "color": "#e4a15d",
+    "anilist": "https://anilist.co/anime/117612",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117612-MCbAaq2ypJlp.jpg"
+  },
+  "anime::In Another World With My Smartphone": {
+    "poster": "./assets/posters-webp/5e171fb1851af1f0.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98491-6ot86unqGUj4.jpg",
+    "color": null,
+    "anilist": "https://anilist.co/anime/98491",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98491-5vyX89aabiHz.jpg"
+  },
+  "anime::Kanojo mo Kanojo": {
+    "poster": "./assets/posters-webp/396e019165948555.webp",
+    "banner": null,
+    "color": "#e45d93",
+    "anilist": "https://anilist.co/anime/213581",
+    "format": null,
+    "countryOfOrigin": "JP",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213581-sywAYAYI7lVU.jpg"
+  },
+  "anime::Mushoku Tensei": {
+    "poster": "./assets/posters-webp/5eabab4533c8fec3.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108465-RgsRpTMhP9Sv.jpg",
+    "color": "#43a1e4",
+    "anilist": "https://anilist.co/anime/108465",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg"
+  },
+  "anime::Trinity Seven": {
+    "poster": "./assets/posters-webp/3905f497b2107489.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20631-JsRVj8iDf21B.jpg",
+    "color": "#e47850",
+    "anilist": "https://anilist.co/anime/20631",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20631-LdCiy3goitcT.png"
+  },
+  "anime::Re:Monster": {
+    "poster": "./assets/posters-webp/aeb0c73490cbb232.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169417-NaD0wR83gTbm.jpg",
+    "color": null,
+    "anilist": "https://anilist.co/anime/169417",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png"
+  },
+  "manga::Kanojo mo Kanojo": {
+    "poster": "./assets/posters-webp/a82d0b41e52f3171.webp",
+    "mangadex": "https://mangadex.org/title/e83c326b-921b-45ff-bc0c-d667bbfe64cc",
+    "sourcePoster": "https://uploads.mangadex.org/covers/e83c326b-921b-45ff-bc0c-d667bbfe64cc/3630dde4-2365-4aee-88ac-49bd78ac3e56.jpg.512.jpg"
+  },
+  "manga::Farming Life in Another World": {
+    "poster": "./assets/posters-webp/ccdac06bf12d68a7.webp",
+    "mangadex": "https://mangadex.org/title/4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2",
+    "sourcePoster": "https://uploads.mangadex.org/covers/4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2/8637cea7-d551-4b55-9394-277a3bf7fbb3.jpg.512.jpg"
+  },
+  "manga::Tales of Wedding Rings": {
+    "poster": "./assets/posters-webp/ca5b2730c40a92a8.webp",
+    "mangadex": "https://mangadex.org/title/df59c687-346f-45fa-b351-ee8dc09f752f",
+    "sourcePoster": "https://uploads.mangadex.org/covers/df59c687-346f-45fa-b351-ee8dc09f752f/ea8efae7-ba27-4111-8c8a-e6b2e71fa663.jpg.512.jpg"
+  },
+  "manga::In Another World With My Smartphone": {
+    "poster": "./assets/posters-webp/8bb6f782b120d9b8.webp",
+    "mangadex": "https://mangadex.org/title/4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2",
+    "sourcePoster": "https://uploads.mangadex.org/covers/4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2/8637cea7-d551-4b55-9394-277a3bf7fbb3.jpg.512.jpg"
+  },
+  "manga::Demon King Daimao": {
+    "poster": "./assets/posters-webp/2748e5ba61fef240.webp",
+    "mangadex": "https://mangadex.org/title/9127461c-211e-4a8d-adfa-68eac68be7fa",
+    "sourcePoster": "https://uploads.mangadex.org/covers/9127461c-211e-4a8d-adfa-68eac68be7fa/a996cb43-9daf-4e56-977e-9bc021f513a7.jpg.512.jpg"
+  },
+  "manga::Sekirei": {
+    "poster": "./assets/posters-webp/c4670d4046e3cf68.webp",
+    "mangadex": "https://mangadex.org/title/2d4cd5ea-ee03-4991-8d14-25b4b68dfdee",
+    "sourcePoster": "https://uploads.mangadex.org/covers/2d4cd5ea-ee03-4991-8d14-25b4b68dfdee/28022e28-9717-4f69-9401-1d646d24a20c.jpg.512.jpg"
+  },
+  "manga::Re:Monster": {
+    "poster": "./assets/posters-webp/235618d3d5a44753.webp",
+    "mangadex": "https://mangadex.org/title/eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f",
+    "sourcePoster": "https://uploads.mangadex.org/covers/eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f/d65c80b4-6f6f-4d7d-a71e-41e138eebab3.jpg.512.jpg"
+  },
+  "manga::Mushoku Tensei": {
+    "poster": "./assets/posters-webp/1f9b80c9a797444a.webp",
+    "mangadex": "https://mangadex.org/title/bd6d0982-0091-4945-ad70-c028ed3c0917",
+    "sourcePoster": "https://uploads.mangadex.org/covers/bd6d0982-0091-4945-ad70-c028ed3c0917/6a9f3d32-b7bb-478a-9c76-54868276c26f.jpg.512.jpg"
+  },
+  "manga::Omamori Himari": {
+    "poster": "./assets/posters-webp/2c4346287ff21939.webp",
+    "mangadex": "https://mangadex.org/title/ce3560f9-ce30-4ab9-a124-836270014857",
+    "sourcePoster": "https://uploads.mangadex.org/covers/ce3560f9-ce30-4ab9-a124-836270014857/954986f0-8701-41ea-9653-a3c507f9fae4.jpg.512.jpg"
+  },
+  "manga::Love Tyrant": {
+    "poster": "./assets/posters-webp/9c23d5680b09ee06.webp",
+    "mangadex": "https://mangadex.org/title/704a51da-57a2-4d6c-a6da-71bb0c6bae0c",
+    "sourcePoster": "https://uploads.mangadex.org/covers/704a51da-57a2-4d6c-a6da-71bb0c6bae0c/0bf75734-1953-43eb-9ab0-3b9606e6037a.jpg.512.jpg"
+  },
+  "manga::Trapped in a Dating Sim": {
+    "poster": "./assets/posters-webp/0145056d6a1bd942.webp",
+    "mangadex": "https://mangadex.org/title/a605a5d0-21a6-481f-a055-74735ea4f2c2",
+    "sourcePoster": "https://uploads.mangadex.org/covers/a605a5d0-21a6-481f-a055-74735ea4f2c2/62e79661-7c2b-404d-89c8-908abe64ba4f.jpg.512.jpg"
+  },
+  "manga::The 8th Son? Are You Kidding Me?": {
+    "poster": "./assets/posters-webp/b7c20023eeed079e.webp",
+    "mangadex": "https://mangadex.org/title/5a46590b-14df-43f6-8450-5813cbf482e7",
+    "sourcePoster": "https://uploads.mangadex.org/covers/5a46590b-14df-43f6-8450-5813cbf482e7/b3acae91-07af-4af8-ae15-767c884db8e6.jpg.512.jpg"
+  },
+  "manga::Madan no Ou to Vanadis": {
+    "poster": "./assets/posters-webp/c013a46bb136b63b.webp",
+    "mangadex": "https://mangadex.org/title/2e49632c-c3c6-443a-a86d-f588f331eef2",
+    "sourcePoster": "https://uploads.mangadex.org/covers/2e49632c-c3c6-443a-a86d-f588f331eef2/4796cf97-ef87-4713-8cd2-0dc2dd17fdce.jpg.512.jpg"
+  },
+  "manga::An Ideal Lazy Life": {
+    "poster": "./assets/posters-webp/0044bb3859f33668.webp",
+    "mangadex": "https://mangadex.org/title/85456d9d-9c70-49e4-bbda-462b5a4af3c4",
+    "sourcePoster": "https://uploads.mangadex.org/covers/85456d9d-9c70-49e4-bbda-462b5a4af3c4/bb8b7724-a070-4b8f-918e-f16eb93e50c7.jpg.512.jpg"
+  },
+  "anime::Tales of Wedding Rings": {
+    "poster": "./assets/posters-webp/200ed0f11b9eb3de.webp",
+    "mangadex": "https://mangadex.org/title/df59c687-346f-45fa-b351-ee8dc09f752f",
+    "sourcePoster": "https://uploads.mangadex.org/covers/df59c687-346f-45fa-b351-ee8dc09f752f/ea8efae7-ba27-4111-8c8a-e6b2e71fa663.jpg.512.jpg"
+  },
+  "anime::The Fruit of Grisaia": {
+    "poster": "./assets/posters-webp/a8b06cef29ea18d9.webp",
+    "anilist": "https://anilist.co/anime/17729",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17729-Xhgile3kCpqB.jpg"
+  },
+  "manhwa::Nano Machina": {
+    "poster": "./assets/posters-webp/e92f0333040dc64d.webp",
+    "mangadex": "https://mangadex.org/title/6e4805a6-75ab-462d-883c-4ddedb8e4df6",
+    "sourcePoster": "https://uploads.mangadex.org/covers/6e4805a6-75ab-462d-883c-4ddedb8e4df6/16406b53-9224-4639-8511-9951484ad99a.jpg.512.jpg"
+  },
+  "game::Snowbreak: Containment Zone": {
+    "poster": "./assets/posters-webp/9259d53a0b2f0a25.webp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mili_(band)",
+    "sourcePoster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mili_Logo.png/960px-Mili_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "novel::How a Realist Hero Rebuilt the Kingdom": {
+    "poster": "./assets/posters-webp/d58c4292eb664e63.webp",
+    "coverSource": "Open Library",
+    "sourcePoster": "https://covers.openlibrary.org/b/id/8819587-L.jpg"
+  },
+  "novel::Arifureta Shokugyou de Sekai Saikyou": {
+    "poster": "./assets/posters-webp/7b569342f9d64384.webp",
+    "coverSource": "Open Library",
+    "sourcePoster": "https://covers.openlibrary.org/b/id/8782770-L.jpg"
+  },
+  "novel::In Another World With My Smartphone": {
+    "poster": "./assets/posters-webp/c656f5320b0422e8.webp",
+    "coverSource": "Open Library",
+    "sourcePoster": "https://covers.openlibrary.org/b/id/12196552-L.jpg"
+  },
+  "novel::Mushoku Tensei": {
+    "poster": "./assets/posters-webp/1f4fc5e0af753535.webp",
+    "coverSource": "Open Library",
+    "sourcePoster": "https://covers.openlibrary.org/b/id/8758875-L.jpg"
+  },
+  "anime::The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You": {
+    "poster": "./assets/posters-webp/626888c303aeccc0.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162694-QFBei5pbjSh8.png",
+    "coverSource": "AniList"
+  },
+  "game::Jade Empire": {
+    "poster": "./assets/posters-webp/01c4612a23676016.webp",
+    "sourcePoster": "https://cdn.akamai.steamstatic.com/steam/apps/7110/library_600x900_2x.jpg",
+    "coverSource": "Steam"
+  },
+  "game::Conception Plus": {
+    "poster": "./assets/posters-webp/5773e4dff978e21d.webp",
+    "sourcePoster": "https://cdn.akamai.steamstatic.com/steam/apps/906510/library_600x900_2x.jpg",
+    "coverSource": "Steam"
+  },
+  "game::Helltaker": {
+    "poster": "./assets/posters-webp/1a83e16815723bf9.webp",
+    "sourcePoster": "https://cdn.akamai.steamstatic.com/steam/apps/1289310/library_600x900_2x.jpg",
+    "coverSource": "Steam"
+  },
+  "game::Criminal Girls: Invite Only": {
+    "poster": "./assets/posters-webp/4848a9d567af17d3.webp",
+    "sourcePoster": "https://cdn.akamai.steamstatic.com/steam/apps/409850/library_600x900_2x.jpg",
+    "coverSource": "Steam"
+  },
+  "game::Asdivine Dios": {
+    "poster": "./assets/posters-webp/6345aeef8233191c.webp",
+    "sourcePoster": "https://cdn.akamai.steamstatic.com/steam/apps/1015550/library_600x900_2x.jpg",
+    "coverSource": "Steam"
+  },
+  "game::Conception II: Children of the Seven Stars": {
+    "poster": "./assets/posters-webp/e0f27f885cf5432d.webp",
+    "sourcePoster": "https://cdn.akamai.steamstatic.com/steam/apps/458730/library_600x900_2x.jpg",
+    "coverSource": "Steam"
+  },
+  "game::Xenoblade Chronicles 2": {
+    "poster": "./assets/posters-webp/5db73bfd68dd02d8.webp",
+    "sourcePoster": "https://videogamesplus.ca/cdn/shop/products/xenoblade-chronicles-2-508077.23_1200x1200.jpg?v=1652462171",
+    "coverSource": "VideoGamesPlus cover reference",
+    "fit": "contain"
+  },
+  "game::New Little King's Story": {
+    "poster": "./assets/posters-webp/de1eba34402d5e02.webp",
+    "sourcePoster": "https://www.konami.com/products_master/eu_publish/nlking/eu/en/images/59_nlking_gamemain.jpg",
+    "coverSource": "Konami",
+    "fit": "contain"
+  }
+}
