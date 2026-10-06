@@ -1,10 +1,81 @@
 {
   "Arifureta Shokugyou de Sekai Saikyou": [
     {
+      "type": "anime",
+      "title": "Arifureta - From Commonplace to World's Strongest: The Miraculous Meeting and the Phantasmagorical Adventure",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/146921",
+      "aniListId": 146921,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146921-HyTSsd1ardxq.jpg",
+      "format": "OVA",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Arifureta Shokugyou de Sekai Saikyou 2nd season Special",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/143846",
+      "aniListId": 143846,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143846-LtV3VNCt1E6l.png",
+      "format": "SPECIAL",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Arifureta Shokugyou de Sekai Saikyou Prologue",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/145560",
+      "aniListId": 145560,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145560-dTD1Rrxpjunb.jpg",
+      "format": "ONA",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Arifureta: From Commonplace to World's Strongest Season 2",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/112323",
+      "aniListId": 112323,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Arifureta: From Commonplace to World's Strongest Season 3",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/154473",
+      "aniListId": 154473,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Arifureta: From Commonplace to World's Strongest Specials",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/111729",
+      "aniListId": 111729,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111729-NEhPwaytwM0O.jpg",
+      "format": "SPECIAL",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
       "type": "manga",
       "title": "Arifureta: From Commonplace to World’s Strongest",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/96834"
+      "anilist": "https://anilist.co/manga/96834",
+      "aniListId": 96834,
+      "format": "MANGA",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96834-N5hCllCng8pg.jpg",
+      "hiddenAdult": false
     }
   ],
   "Love Tyrant": [
@@ -12,7 +83,12 @@
       "type": "anime",
       "title": "Love Tyrant",
       "status": "complete",
-      "anilist": "https://anilist.co/anime/21517"
+      "anilist": "https://anilist.co/anime/21517",
+      "aniListId": 21517,
+      "format": "TV",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21517-huYdImj17Sr3.jpg",
+      "hiddenAdult": false
     }
   ],
   "Omamori Himari": [
@@ -20,7 +96,12 @@
       "type": "anime",
       "title": "Omamori Himari",
       "status": "complete",
-      "anilist": "https://anilist.co/anime/6324"
+      "anilist": "https://anilist.co/anime/6324",
+      "aniListId": 6324,
+      "format": "TV",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6324.jpg",
+      "hiddenAdult": false
     }
   ],
   "Sekirei": [
@@ -28,7 +109,45 @@
       "type": "anime",
       "title": "Sekirei",
       "status": "complete",
-      "anilist": "https://anilist.co/anime/4063"
+      "anilist": "https://anilist.co/anime/4063",
+      "aniListId": 4063,
+      "format": "TV",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4063-ZP7agutiaOCf.png",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Sekirei Special",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/5279",
+      "aniListId": 5279,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5279.jpg",
+      "format": "SPECIAL",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Sekirei: Pure Engagement",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/5277",
+      "aniListId": 5277,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5277-FVXhVU8xoY6z.png",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Sekirei: Pure Engagement Special",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/9355",
+      "aniListId": 9355,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9355.jpg",
+      "format": "SPECIAL",
+      "origin": "JP",
+      "hiddenAdult": false
     }
   ],
   "UQ Holder!": [
@@ -36,7 +155,23 @@
       "type": "anime",
       "title": "UQ Holder!",
       "status": "complete",
-      "anilist": "https://anilist.co/anime/21855"
+      "anilist": "https://anilist.co/anime/21855",
+      "aniListId": 21855,
+      "format": "TV",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21855-4Dpxr8GQ4BKy.jpg",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "UQ Holder! OVA",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/98999",
+      "aniListId": 98999,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98999-5192MOLfPrdN.jpg",
+      "format": "OVA",
+      "origin": "JP",
+      "hiddenAdult": false
     }
   ],
   "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You": [
@@ -44,7 +179,12 @@
       "type": "manga",
       "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/114416"
+      "anilist": "https://anilist.co/manga/114416",
+      "aniListId": 114416,
+      "format": "MANGA",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114416-XtRJ8tI9GtuI.jpg",
+      "hiddenAdult": false
     }
   ],
   "Trinity Seven": [
@@ -52,7 +192,12 @@
       "type": "manga",
       "title": "Trinity Seven: The Seven Magicians",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/54822"
+      "anilist": "https://anilist.co/manga/54822",
+      "aniListId": 54822,
+      "format": "MANGA",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54822-RtRk8BhQz7R5.jpg",
+      "hiddenAdult": false
     }
   ],
   "Tenchi Muyo! War on Geminar": [
@@ -60,13 +205,23 @@
       "type": "manga",
       "title": "Isekai no Seikishi Monogatari",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/54800"
+      "anilist": "https://anilist.co/manga/54800",
+      "aniListId": 54800,
+      "format": "MANGA",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24800.jpg",
+      "hiddenAdult": false
     },
     {
       "type": "novel",
       "title": "Isekai no Seikishi Monogatari",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/54834"
+      "anilist": "https://anilist.co/manga/54834",
+      "aniListId": 54834,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24834.jpg",
+      "hiddenAdult": false
     }
   ],
   "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!": [
@@ -74,7 +229,12 @@
       "type": "novel",
       "title": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/139034"
+      "anilist": "https://anilist.co/manga/139034",
+      "aniListId": 139034,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139034-O8PYxbHcrEVL.jpg",
+      "hiddenAdult": false
     }
   ],
   "Cat Planet Cuties": [
@@ -82,7 +242,12 @@
       "type": "novel",
       "title": "Asobi ni Iku yo!",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/43068"
+      "anilist": "https://anilist.co/manga/43068",
+      "aniListId": 43068,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13068.jpg",
+      "hiddenAdult": false
     }
   ],
   "My Room Is a Dungeon Rest Stop": [
@@ -90,7 +255,12 @@
       "type": "novel",
       "title": "Boku no Heya ga Dungeon no Kyuukeijo ni Natteshimatta Ken",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/99572"
+      "anilist": "https://anilist.co/manga/99572",
+      "aniListId": 99572,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99572-7OwyFLtUT7nd.jpg",
+      "hiddenAdult": false
     }
   ],
   "Campione!": [
@@ -98,7 +268,12 @@
       "type": "novel",
       "title": "Campione!",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/62735"
+      "anilist": "https://anilist.co/manga/62735",
+      "aniListId": 62735,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32735.jpg",
+      "hiddenAdult": false
     }
   ],
   "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far": [
@@ -106,7 +281,12 @@
       "type": "novel",
       "title": "Chronicles of an Aristocrat Reborn in Another World",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/106944"
+      "anilist": "https://anilist.co/manga/106944",
+      "aniListId": 106944,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx106944-o9R7jc15FX6M.jpg",
+      "hiddenAdult": false
     }
   ],
   "Demon King Daimao": [
@@ -114,7 +294,12 @@
       "type": "novel",
       "title": "Demon King Daimaou",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/48926"
+      "anilist": "https://anilist.co/manga/48926",
+      "aniListId": 48926,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18926.jpg",
+      "hiddenAdult": false
     }
   ],
   "The 8th Son? Are You Kidding Me?": [
@@ -122,7 +307,12 @@
       "type": "novel",
       "title": "Hachi-nan tte, Sore wa Nai deshou!",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/86470"
+      "anilist": "https://anilist.co/manga/86470",
+      "aniListId": 86470,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86470-w3PSKlWSCc2l.jpg",
+      "hiddenAdult": false
     }
   ],
   "High School DxD": [
@@ -130,7 +320,12 @@
       "type": "novel",
       "title": "High School DxD",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/55409"
+      "anilist": "https://anilist.co/manga/55409",
+      "aniListId": 55409,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55409-4WnmVLkRhSVS.jpg",
+      "hiddenAdult": false
     }
   ],
   "How NOT to Summon a Demon Lord": [
@@ -138,7 +333,12 @@
       "type": "novel",
       "title": "How NOT to Summon a Demon Lord",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/93368"
+      "anilist": "https://anilist.co/manga/93368",
+      "aniListId": 93368,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx93368-4dPK7cVo1DYR.jpg",
+      "hiddenAdult": false
     }
   ],
   "Farming Life in Another World": [
@@ -146,7 +346,12 @@
       "type": "novel",
       "title": "Isekai Nonbiri Nouka",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/100461"
+      "anilist": "https://anilist.co/manga/100461",
+      "aniListId": 100461,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100461-M6ibvIsJbZeD.jpg",
+      "hiddenAdult": false
     }
   ],
   "Reborn as a Barrier Master": [
@@ -154,7 +359,12 @@
       "type": "novel",
       "title": "Kekkaishi e no Tensei",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/118877"
+      "anilist": "https://anilist.co/manga/118877",
+      "aniListId": 118877,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118877-7RNY9rCUZvCf.jpg",
+      "hiddenAdult": false
     }
   ],
   "Madan no Ou to Vanadis": [
@@ -162,7 +372,12 @@
       "type": "novel",
       "title": "Madan no Ou to Vanadis",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/73393"
+      "anilist": "https://anilist.co/manga/73393",
+      "aniListId": 73393,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx73393-QMCBbovtsOy5.jpg",
+      "hiddenAdult": false
     }
   ],
   "Magic Stone Gourmet: Eating Magical Power Made Me The Strongest": [
@@ -170,7 +385,12 @@
       "type": "novel",
       "title": "Magic Stone Gourmet: Eating Magical Power Made Me The Strongest",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/122645"
+      "anilist": "https://anilist.co/manga/122645",
+      "aniListId": 122645,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122645-iuPue4UZAoi5.png",
+      "hiddenAdult": false
     }
   ],
   "Monster Girl Doctor": [
@@ -178,7 +398,12 @@
       "type": "novel",
       "title": "Monster Girl Doctor",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/101285"
+      "anilist": "https://anilist.co/manga/101285",
+      "aniListId": 101285,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx101285-MAJXDwG5xFnC.jpg",
+      "hiddenAdult": false
     }
   ],
   "Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon": [
@@ -186,7 +411,12 @@
       "type": "novel",
       "title": "Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/103641"
+      "anilist": "https://anilist.co/manga/103641",
+      "aniListId": 103641,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103641-o1qmNpQDUbcS.jpg",
+      "hiddenAdult": false
     }
   ],
   "Re:Monster": [
@@ -194,7 +424,12 @@
       "type": "novel",
       "title": "Re:Monster",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/85494"
+      "anilist": "https://anilist.co/manga/85494",
+      "aniListId": 85494,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85494-yDzxO2JZhXiE.jpg",
+      "hiddenAdult": false
     }
   ],
   "Undefeated Bahamut Chronicle": [
@@ -202,7 +437,12 @@
       "type": "novel",
       "title": "Saijaku Muhai no Bahamut",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/86118"
+      "anilist": "https://anilist.co/manga/86118",
+      "aniListId": 86118,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86118-3noN91wztc4V.jpg",
+      "hiddenAdult": false
     }
   ],
   "Humans are the Strongest Race": [
@@ -210,7 +450,12 @@
       "type": "novel",
       "title": "Saikyou no Shuzoku ga Ningen Datta Ken",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/97241"
+      "anilist": "https://anilist.co/manga/97241",
+      "aniListId": 97241,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx97241-JGUpNlb9qY4q.jpg",
+      "hiddenAdult": false
     }
   ],
   "The Testament of Sister New Devil": [
@@ -218,7 +463,12 @@
       "type": "novel",
       "title": "Shinmai Maou no Testament",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/79305"
+      "anilist": "https://anilist.co/manga/79305",
+      "aniListId": 79305,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx79305-ZS2VcIJ1RLeO.jpg",
+      "hiddenAdult": false
     }
   ],
   "Strike the Blood": [
@@ -226,7 +476,12 @@
       "type": "novel",
       "title": "Strike the Blood",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/71021"
+      "anilist": "https://anilist.co/manga/71021",
+      "aniListId": 71021,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx71021-TDuV51qcZj1m.jpg",
+      "hiddenAdult": false
     }
   ],
   "Survival in Another World with My Mistress!": [
@@ -234,7 +489,12 @@
       "type": "novel",
       "title": "Survival in Another World with My Mistress!",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/124758"
+      "anilist": "https://anilist.co/manga/124758",
+      "aniListId": 124758,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124758-NbKUryH59ZmQ.jpg",
+      "hiddenAdult": false
     }
   ],
   "Level Up Just By Eating": [
@@ -242,7 +502,12 @@
       "type": "novel",
       "title": "Taberu dake de Level-Up!: Damegami to Issho ni Isekai Musou",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/109073"
+      "anilist": "https://anilist.co/manga/109073",
+      "aniListId": 109073,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109073-SyuwiNXmwW7s.jpg",
+      "hiddenAdult": false
     }
   ],
   "An Ideal Lazy Life": [
@@ -250,7 +515,12 @@
       "type": "novel",
       "title": "The Ideal Sponger Life",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/86487"
+      "anilist": "https://anilist.co/manga/86487",
+      "aniListId": 86487,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86487-Y4JaW5s1NCsS.jpg",
+      "hiddenAdult": false
     }
   ],
   "The Master of Ragnarok & Blesser of Einherjar": [
@@ -258,7 +528,12 @@
       "type": "novel",
       "title": "The Master of Ragnarok & Blesser of Einherjar",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/90595"
+      "anilist": "https://anilist.co/manga/90595",
+      "aniListId": 90595,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx90595-MFmZ0SLwwPDH.jpg",
+      "hiddenAdult": false
     }
   ],
   "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat": [
@@ -266,7 +541,12 @@
       "type": "novel",
       "title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/107604"
+      "anilist": "https://anilist.co/manga/107604",
+      "aniListId": 107604,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107604-6b2J0cDgoTVg.jpg",
+      "hiddenAdult": false
     }
   ],
   "Tou no Kanri o Shite Miyou": [
@@ -274,7 +554,12 @@
       "type": "novel",
       "title": "Tou no no Kanri wo Shite Miyou",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/125318"
+      "anilist": "https://anilist.co/manga/125318",
+      "aniListId": 125318,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125318-t09t8RuLHw9q.jpg",
+      "hiddenAdult": false
     }
   ],
   "Trapped in a Dating Sim": [
@@ -282,7 +567,12 @@
       "type": "novel",
       "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
       "status": "complete",
-      "anilist": "https://anilist.co/manga/104504"
+      "anilist": "https://anilist.co/manga/104504",
+      "aniListId": 104504,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104504-eXm3LbytV5F8.jpg",
+      "hiddenAdult": false
     }
   ],
   "Beast Tamer": [
@@ -290,7 +580,143 @@
       "type": "novel",
       "title": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
       "status": "ongoing",
-      "anilist": "https://anilist.co/manga/117640"
+      "anilist": "https://anilist.co/manga/117640",
+      "aniListId": 117640,
+      "format": "NOVEL",
+      "origin": "JP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117640-arXhWX3vePU6.jpg",
+      "hiddenAdult": false
+    }
+  ],
+  "Tales of Wedding Rings": [
+    {
+      "type": "anime",
+      "title": "Tales of Wedding Rings Season 2",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/176298",
+      "aniListId": 176298,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176298-95t608XwuBFb.png",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    }
+  ],
+  "Kanojo mo Kanojo": [
+    {
+      "type": "anime",
+      "title": "Girlfriend, Girlfriend Season 2",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/154692",
+      "aniListId": 154692,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154692-UcFM4rM3ehwE.jpg",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    }
+  ],
+  "Mushoku Tensei": [
+    {
+      "type": "anime",
+      "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2",
+      "status": "upcoming",
+      "anilist": "https://anilist.co/anime/217434",
+      "aniListId": 217434,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217434-xqZNBp5U3hgY.jpg",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/127720",
+      "aniListId": 127720,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127720-ADJgIrUVMdU9.jpg",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/141534",
+      "aniListId": 141534,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141534-Tmnlz4mvYhaU.jpg",
+      "format": "SPECIAL",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/146065",
+      "aniListId": 146065,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146065-IjirxRK26O03.png",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/166873",
+      "aniListId": 166873,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-xO0BRPkmwFll.png",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "anime",
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/178789",
+      "aniListId": 178789,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    },
+    {
+      "type": "manga",
+      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen",
+      "status": "ongoing",
+      "anilist": "https://anilist.co/manga/142989",
+      "aniListId": 142989,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142989-jYDNHLwdER70.png",
+      "format": "MANGA",
+      "origin": "JP",
+      "hiddenAdult": false
+    }
+  ],
+  "In Another World With My Smartphone": [
+    {
+      "type": "anime",
+      "title": "In Another World With My Smartphone 2",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/147571",
+      "aniListId": 147571,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147571-QvxjhZtVavTz.png",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
+    }
+  ],
+  "How a Realist Hero Rebuilt the Kingdom": [
+    {
+      "type": "anime",
+      "title": "How a Realist Hero Rebuilt the Kingdom Part 2",
+      "status": "complete",
+      "anilist": "https://anilist.co/anime/139648",
+      "aniListId": 139648,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139648-Gc88ZbCFeKCQ.jpg",
+      "format": "TV",
+      "origin": "JP",
+      "hiddenAdult": false
     }
   ]
 }

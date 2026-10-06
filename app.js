@@ -4,6 +4,7 @@
   const savedMeta = JSON.parse(localStorage.getItem("trueHaremAniListMeta") || "{}");
   let posters = {};
   let relatedMedia = {};
+  let seriesAliases = {};
 
   const labels = {
     type:{anime:"Anime",manga:"Manga",manhwa:"Manhwa",manhua:"Manhua",novel:"Light Novel",game:"Game"},
@@ -14,7 +15,7 @@
   };
 
   const config = {
-    status:{el:"statusFilter",placeholder:"Any",options:[["all","Any"],["complete","Completed"],["ongoing","Ongoing"],["hiatus","Hiatus"],["cancelled","Cancelled"],["unknown","Unknown"]]},
+    status:{el:"statusFilter",placeholder:"Any",options:[["all","Any"],["complete","Completed"],["ongoing","Ongoing"],["hiatus","Hiatus"],["cancelled","Cancelled"],["upcoming","Upcoming"],["unknown","Unknown"]]},
     verification:{el:"verificationFilter",placeholder:"Any",options:[["all","Any"],["confirmed","Confirmed"],["source-only","Source Confirmed"]]},
     content:{el:"contentFilter",placeholder:"Any",options:[["all","Any"],["sfw","SFW"],["ecchi","Ecchi"]]},
     sort:{el:"sortFilter",placeholder:"Featured",options:[["featured","Featured"],["title","Title"],["complete","Completed First"]]},
@@ -30,10 +31,22 @@
   const esc=s=>String(s).replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;").replaceAll("'","&#039;");
 
   function merged(){
-    return works0.map(w=>({...w,...(savedMeta[key(w)]||{}),media:posters[key(w)]||{}})).filter(w=>!w.hiddenAdult);
+    return works0.map(w=>{
+      const media=posters[key(w)]||{};
+      return {
+        ...w,
+        ...(savedMeta[key(w)]||{}),
+        ...(media.status?{status:media.status}:{}),
+        hiddenAdult:Boolean(w.hiddenAdult||media.hiddenAdult),
+        media
+      };
+    }).filter(w=>!w.hiddenAdult);
   }
 
-  function seriesKey(w){ return norm(w.title); }
+  function seriesKey(w){
+    const n=norm(w.title);
+    return seriesAliases[n]||n;
+  }
 
   function groupAll(){
     const map=new Map();
@@ -43,7 +56,19 @@
       map.get(k).versions.push(w);
     }
     return [...map.values()].map(g=>{
-      const related=(relatedMedia[g.title]||[]).filter(r=>!g.versions.some(v=>v.media?.anilist&&v.media.anilist===r.anilist));
+      const relatedRaw=g.versions.flatMap(v=>relatedMedia[v.title]||[]);
+      const indexedTypes=new Set(g.versions.map(v=>v.type));
+      const seenRelated=new Set();
+      const seenRelatedTypes=new Set();
+      const related=relatedRaw.filter(r=>{
+        if(indexedTypes.has(r.type)) return false;
+        if(g.versions.some(v=>v.media?.anilist&&v.media.anilist===r.anilist)) return false;
+        const rk=r.anilist||[r.type,r.title].join("|");
+        if(seenRelated.has(rk)||seenRelatedTypes.has(r.type)) return false;
+        seenRelated.add(rk);
+        seenRelatedTypes.add(r.type);
+        return true;
+      });
       const priority={anime:0,manhwa:1,manga:2,manhua:3,novel:4,game:5};
       const primary=[...g.versions].sort((a,b)=>
         Number(!!b.media?.poster)-Number(!!a.media?.poster) ||
@@ -438,6 +463,7 @@
   async function init(){
     try{const r=await fetch("./posters.json",{cache:"no-store"});if(r.ok)posters=await r.json();}catch{}
     try{const r=await fetch("./related-media.json",{cache:"no-store"});if(r.ok)relatedMedia=await r.json();}catch{}
+    try{const r=await fetch("./series-aliases.json",{cache:"no-store"});if(r.ok)seriesAliases=await r.json();}catch{}
     renderAllSelects();renderTypeTabs();renderActiveFilters();syncFilterCount();renderGrid();renderSources();
     const requested=new URL(location.href).searchParams.get("work");
     if(requested){

@@ -1,224 +1,435 @@
 {
   "manhwa::Webtoon Character Na Kang Lim": {
-    "poster": "./assets/posters-webp/33f7522099815ab7.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138705-zRSNhzP4U8zx.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/138705-kaKGTzhH4Lmw.jpg",
     "color": "#50e493",
     "anilist": "https://anilist.co/manga/138705",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138705-zRSNhzP4U8zx.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138705-zRSNhzP4U8zx.jpg",
+    "aniListId": 138705,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::The Advanced Player of the Tutorial Tower": {
-    "poster": "./assets/posters-webp/19d7198107dcd5e4.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119276-wqzyyB3xuPVo.jpg",
     "banner": null,
     "color": "#5d78f1",
     "anilist": "https://anilist.co/manga/119276",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119276-wqzyyB3xuPVo.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119276-wqzyyB3xuPVo.jpg",
+    "aniListId": 119276,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::Absolute Sword Sense": {
-    "poster": "./assets/posters-webp/cd5118941b97a228.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/151460-zE0YRolZcxEq.jpg",
     "color": "#d6ae6b",
     "anilist": "https://anilist.co/manga/151460",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg",
+    "aniListId": 151460,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::Revenge of the Iron Blooded Hound": {
-    "poster": "./assets/posters-webp/16da76627b0571e0.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
     "banner": null,
     "color": "#5078e4",
     "anilist": "https://anilist.co/manga/163824",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
+    "aniListId": 163824,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::I Killed an Academy Player": {
-    "poster": "./assets/posters-webp/35270f81673d752d.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173020-vqe5J7U1cizO.png",
     "banner": null,
     "color": "#f16b5d",
     "anilist": "https://anilist.co/manga/173020",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173020-vqe5J7U1cizO.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173020-vqe5J7U1cizO.png",
+    "aniListId": 173020,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::The Max Level Hero Strikes Back!": {
-    "poster": "./assets/posters-webp/b0e7ecd62356862a.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125636-g0gkyLZbo3Tz.png",
     "banner": null,
     "color": "#f1d6c9",
     "anilist": "https://anilist.co/manga/125636",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125636-g0gkyLZbo3Tz.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125636-g0gkyLZbo3Tz.png",
+    "aniListId": 125636,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::After Ten Millennia in Hell": {
-    "poster": "./assets/posters-webp/e30c5686b1f02e8e.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153284-roAlRmlRM7Vs.png",
     "banner": null,
     "color": "#fea150",
     "anilist": "https://anilist.co/manga/153284",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153284-roAlRmlRM7Vs.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153284-roAlRmlRM7Vs.png",
+    "aniListId": 153284,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::Overgeared": {
-    "poster": "./assets/posters-webp/7b79589193c316e6.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105664-4x0zfa6fmqp8.png",
     "banner": null,
     "color": "#93f1f1",
     "anilist": "https://anilist.co/manga/105664",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105664-4x0zfa6fmqp8.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105664-4x0zfa6fmqp8.png",
+    "aniListId": 105664,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::How to Use a Returner": {
-    "poster": "./assets/posters-webp/359cfd7decc3aaf2.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141007-mCfbMLgrCv1h.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/141007-3HYddNTNKPVf.jpg",
     "color": "#e4bb50",
     "anilist": "https://anilist.co/manga/141007",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141007-mCfbMLgrCv1h.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141007-mCfbMLgrCv1h.jpg",
+    "aniListId": 141007,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::The Extra's Academy Survival Guide": {
-    "poster": "./assets/posters-webp/679ec39b079ebc08.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
     "banner": null,
     "color": "#ff861a",
     "anilist": "https://anilist.co/manga/172619",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
+    "aniListId": 172619,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::The Reluctant Demon Cult Leader": {
-    "poster": "./assets/posters-webp/3d0cefb380e838eb.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181632-vkZO5tBStCSC.png",
     "banner": null,
     "color": "#e4506b",
     "anilist": "https://anilist.co/manga/181632",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181632-vkZO5tBStCSC.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181632-vkZO5tBStCSC.png",
+    "aniListId": 181632,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::My Girlfriend Is a Zombie": {
-    "poster": "./assets/posters-webp/c2a673b7979b1fa9.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111573-s6aIbPEyvV61.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/111573-tliK55Ec9KtF.jpg",
     "color": "#6b5d1a",
     "anilist": "https://anilist.co/manga/111573",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111573-s6aIbPEyvV61.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111573-s6aIbPEyvV61.jpg",
+    "aniListId": 111573,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::Evil Young Master Doesn't Want a Bad Ending": {
-    "poster": "./assets/posters-webp/c6232b6dd2e07fd5.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145721-a0KHQZNrzLAM.jpg",
     "banner": null,
     "color": "#e4506b",
     "anilist": "https://anilist.co/manga/145721",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145721-a0KHQZNrzLAM.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145721-a0KHQZNrzLAM.jpg",
+    "aniListId": 145721,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::Sir, Don't Show Off": {
-    "poster": "./assets/posters-webp/bfa23de4087b9b56.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170483-1DBPiNC14uRf.jpg",
     "banner": null,
     "color": "#d6431a",
     "anilist": "https://anilist.co/manga/170483",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170483-1DBPiNC14uRf.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170483-1DBPiNC14uRf.jpg",
+    "aniListId": 170483,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::Become the Castellan in Another World": {
-    "poster": "./assets/posters-webp/75bcd59c2351216e.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118368-ECZ8w2NpF5E1.png",
     "banner": null,
     "color": "#50a1f1",
     "anilist": "https://anilist.co/manga/118368",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118368-ECZ8w2NpF5E1.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118368-ECZ8w2NpF5E1.png",
+    "aniListId": 118368,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::Catastrophic Necromancer": {
-    "poster": "./assets/posters-webp/a44b668702ad3d53.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b167372-zfQUGcQMWiAI.png",
     "banner": null,
     "color": "#5de4ae",
     "anilist": "https://anilist.co/manga/167372",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b167372-zfQUGcQMWiAI.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b167372-zfQUGcQMWiAI.png",
+    "aniListId": 167372,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::Ultimate Scheming System": {
-    "poster": "./assets/posters-webp/05970fa5ef9e3699.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105674-CHRp759Ywqxr.jpg",
     "banner": null,
     "color": "#f1bb5d",
     "anilist": "https://anilist.co/manga/105674",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105674-CHRp759Ywqxr.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105674-CHRp759Ywqxr.jpg",
+    "aniListId": 105674,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::My Harem Grew So Large, I Was Forced to Ascend": {
-    "poster": "./assets/posters-webp/8fbc2d48d1276255.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130258-qkbweJ1o1GKE.jpg",
     "banner": null,
     "color": "#fe5093",
     "anilist": "https://anilist.co/manga/130258",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130258-qkbweJ1o1GKE.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130258-qkbweJ1o1GKE.jpg",
+    "aniListId": 130258,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::My Harem Consists Entirely of Female Demon Villains": {
-    "poster": "./assets/posters-webp/ac1ec8663af713a0.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b153717-NbTyZwlujnq2.jpg",
     "banner": null,
     "color": "#28aef1",
     "anilist": "https://anilist.co/manga/153717",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b153717-NbTyZwlujnq2.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b153717-NbTyZwlujnq2.jpg",
+    "aniListId": 153717,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::Martial Peak": {
-    "poster": "./assets/posters-webp/83eff5c45df63a71.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104494-xmWuGEwxzbfB.jpg",
     "banner": null,
     "color": "#f16b43",
     "anilist": "https://anilist.co/manga/104494",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104494-xmWuGEwxzbfB.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104494-xmWuGEwxzbfB.jpg",
+    "aniListId": 104494,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::I Am the Fated Villain": {
-    "poster": "./assets/posters-webp/a9d1f738c416dea0.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142287-nlT7oSUzHnNv.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/142287-4O13ckpwfZvh.jpg",
     "color": "#ae5de4",
     "anilist": "https://anilist.co/manga/142287",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142287-nlT7oSUzHnNv.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142287-nlT7oSUzHnNv.jpg",
+    "aniListId": 142287,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhua::Qi Refinement For 3,000 Years": {
-    "poster": "./assets/posters-webp/2963ee772b07ecf6.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120285-8QUW1DTHt5nO.png",
     "banner": null,
     "color": "#d6a16b",
     "anilist": "https://anilist.co/manga/120285",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120285-8QUW1DTHt5nO.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120285-8QUW1DTHt5nO.png",
+    "aniListId": 120285,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "anime::Tenchi Muyo!": {
-    "poster": "./assets/posters-webp/a0a87e4005be95c5.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx696-q40thYobzxmz.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/696-d3QphXIJN64c.jpg",
     "color": "#f16b00",
     "anilist": "https://anilist.co/anime/696",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx696-q40thYobzxmz.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx696-q40thYobzxmz.jpg",
+    "aniListId": 696,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "anime::Arifureta Shokugyou de Sekai Saikyou": {
-    "poster": "./assets/posters-webp/7e9da5022ccc075e.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-DvOn5bMOt4cy.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100668-9ZQSB5x5St7c.jpg",
     "color": null,
     "anilist": "https://anilist.co/anime/100668",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-DvOn5bMOt4cy.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-DvOn5bMOt4cy.jpg",
+    "aniListId": 100668,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "anime::How a Realist Hero Rebuilt the Kingdom": {
-    "poster": "./assets/posters-webp/2bec84648ddb1329.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117612-MCbAaq2ypJlp.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117612-MQ8iXGt2NHkB.jpg",
     "color": "#e4a15d",
     "anilist": "https://anilist.co/anime/117612",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117612-MCbAaq2ypJlp.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117612-MCbAaq2ypJlp.jpg",
+    "aniListId": 117612,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "anime::In Another World With My Smartphone": {
-    "poster": "./assets/posters-webp/5e171fb1851af1f0.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98491-5vyX89aabiHz.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98491-6ot86unqGUj4.jpg",
     "color": null,
     "anilist": "https://anilist.co/anime/98491",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98491-5vyX89aabiHz.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98491-5vyX89aabiHz.jpg",
+    "aniListId": 98491,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "anime::Kanojo mo Kanojo": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126192-3fFbZJFSwrHH.jpg",
     "banner": null,
     "color": "#e45d93",
     "anilist": "https://anilist.co/anime/126192",
-    "format": null,
+    "format": "TV",
     "countryOfOrigin": "JP",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126192-3fFbZJFSwrHH.jpg",
     "coverSource": "AniList",
-    "aniListId": 126192
+    "aniListId": 126192,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "anime::Mushoku Tensei": {
-    "poster": "./assets/posters-webp/5eabab4533c8fec3.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108465-RgsRpTMhP9Sv.jpg",
     "color": "#43a1e4",
     "anilist": "https://anilist.co/anime/108465",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+    "aniListId": 108465,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "anime::Trinity Seven": {
-    "poster": "./assets/posters-webp/3905f497b2107489.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20631-LdCiy3goitcT.png",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20631-JsRVj8iDf21B.jpg",
     "color": "#e47850",
     "anilist": "https://anilist.co/anime/20631",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20631-LdCiy3goitcT.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20631-LdCiy3goitcT.png",
+    "aniListId": 20631,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "anime::Re:Monster": {
-    "poster": "./assets/posters-webp/aeb0c73490cbb232.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169417-NaD0wR83gTbm.jpg",
     "color": null,
     "anilist": "https://anilist.co/anime/169417",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png",
+    "aniListId": 169417,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manga::Kanojo mo Kanojo": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116266-VouBBsn4mVHc.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116266-VouBBsn4mVHc.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/116266",
-    "aniListId": 116266
+    "aniListId": 116266,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Farming Life in Another World": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100456-8RMZfz4Tqjln.jpg",
@@ -227,7 +438,10 @@
     "anilist": "https://anilist.co/manga/100456",
     "aniListId": 100456,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   },
   "manga::Tales of Wedding Rings": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85310-EUF315ZIid1Z.jpg",
@@ -236,7 +450,10 @@
     "anilist": "https://anilist.co/manga/85310",
     "aniListId": 85310,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "manga::In Another World With My Smartphone": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99465-8YHBb8GxSGaX.jpg",
@@ -245,7 +462,10 @@
     "anilist": "https://anilist.co/manga/99465",
     "aniListId": 99465,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   },
   "manga::Demon King Daimao": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44923-NZvkqaMbejT5.jpg",
@@ -254,7 +474,10 @@
     "anilist": "https://anilist.co/manga/44923",
     "aniListId": 44923,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "manga::Sekirei": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30873-Ta0oMK1QTdWc.png",
@@ -263,7 +486,10 @@
     "anilist": "https://anilist.co/manga/30873",
     "aniListId": 30873,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "manga::Re:Monster": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85495-uaUAZaDdI0YB.jpg",
@@ -272,7 +498,10 @@
     "anilist": "https://anilist.co/manga/85495",
     "aniListId": 85495,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   },
   "manga::Mushoku Tensei": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85564-egXRASF0x9B9.jpg",
@@ -281,7 +510,10 @@
     "anilist": "https://anilist.co/manga/85564",
     "aniListId": 85564,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   },
   "manga::Omamori Himari": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31745-Zv9XRQuKpVSc.png",
@@ -290,7 +522,10 @@
     "anilist": "https://anilist.co/manga/31745",
     "aniListId": 31745,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "manga::Love Tyrant": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx71949-iDf1DHsFAav5.jpg",
@@ -299,7 +534,10 @@
     "anilist": "https://anilist.co/manga/71949",
     "aniListId": 71949,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "manga::Trapped in a Dating Sim": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104503-O9OmaU1sVCNW.jpg",
@@ -308,7 +546,10 @@
     "anilist": "https://anilist.co/manga/104503",
     "aniListId": 104503,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "manga::The 8th Son? Are You Kidding Me?": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx96344-Dw9xBv2ximH8.jpg",
@@ -317,7 +558,10 @@
     "anilist": "https://anilist.co/manga/96344",
     "aniListId": 96344,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   },
   "manga::Madan no Ou to Vanadis": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx73391-LrkERjduoAvV.jpg",
@@ -326,7 +570,10 @@
     "anilist": "https://anilist.co/manga/73391",
     "aniListId": 73391,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "manga::An Ideal Lazy Life": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98347-8WilPyGXtetn.jpg",
@@ -335,7 +582,10 @@
     "anilist": "https://anilist.co/manga/98347",
     "aniListId": 98347,
     "format": "MANGA",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   },
   "anime::Tales of Wedding Rings": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160389-2f6SosbyUpxX.jpg",
@@ -344,12 +594,22 @@
     "anilist": "https://anilist.co/anime/160389",
     "aniListId": 160389,
     "format": "TV",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "anime::The Fruit of Grisaia": {
-    "poster": "./assets/posters-webp/a8b06cef29ea18d9.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17729-Xhgile3kCpqB.jpg",
     "anilist": "https://anilist.co/anime/17729",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17729-Xhgile3kCpqB.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17729-Xhgile3kCpqB.jpg",
+    "aniListId": 17729,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false,
+    "coverSource": "AniList"
   },
   "manhwa::Nano Machina": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
@@ -358,7 +618,10 @@
     "anilist": "https://anilist.co/manga/120980",
     "aniListId": 120980,
     "format": "MANGA",
-    "countryOfOrigin": "KR"
+    "countryOfOrigin": "KR",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   },
   "game::Snowbreak: Containment Zone": {
     "poster": "./assets/posters-webp/9259d53a0b2f0a25.webp",
@@ -372,7 +635,10 @@
     "anilist": "https://anilist.co/manga/97752",
     "aniListId": 97752,
     "format": "NOVEL",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "novel::Arifureta Shokugyou de Sekai Saikyou": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86274-nAItDrzi9fne.jpg",
@@ -381,7 +647,10 @@
     "anilist": "https://anilist.co/manga/86274",
     "aniListId": 86274,
     "format": "NOVEL",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   },
   "novel::In Another World With My Smartphone": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57174-kvUGSfabNxB0.jpg",
@@ -390,7 +659,10 @@
     "anilist": "https://anilist.co/manga/87174",
     "aniListId": 87174,
     "format": "NOVEL",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   },
   "novel::Mushoku Tensei": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85470-jt6BF9tDWB2X.jpg",
@@ -399,12 +671,22 @@
     "anilist": "https://anilist.co/manga/85470",
     "aniListId": 85470,
     "format": "NOVEL",
-    "countryOfOrigin": "JP"
+    "countryOfOrigin": "JP",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "anime::The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You": {
-    "poster": "./assets/posters-webp/626888c303aeccc0.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162694-QFBei5pbjSh8.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162694-QFBei5pbjSh8.png",
-    "coverSource": "AniList"
+    "coverSource": "AniList",
+    "aniListId": 162694,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "anilist": "https://anilist.co/anime/162694",
+    "hiddenAdult": false
   },
   "game::Jade Empire": {
     "poster": "./assets/posters-webp/01c4612a23676016.webp",
@@ -449,333 +731,568 @@
     "fit": "contain"
   },
   "anime::Strike the Blood": {
-    "poster": "./assets/posters-webp/d3b76ee8c6131c27.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18277-Vwm314Nr6vsg.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18277-Vwm314Nr6vsg.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/18277",
-    "aniListId": 18277
+    "aniListId": 18277,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::The Testament of Sister New Devil": {
-    "poster": "./assets/posters-webp/dcb0f35ce0c36c44.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20678-58D9Yhi4GcH2.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20678-58D9Yhi4GcH2.png",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/20678",
-    "aniListId": 20678
+    "aniListId": 20678,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::Conception": {
-    "poster": "./assets/posters-webp/015f3dc9deae9150.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101609-CRv6x3ifnius.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101609-CRv6x3ifnius.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/101609",
-    "aniListId": 101609
+    "aniListId": 101609,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::Campione!": {
-    "poster": "./assets/posters-webp/ecc60fa152c1045d.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12293-DKc0XJ0cacSZ.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12293-DKc0XJ0cacSZ.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/12293",
-    "aniListId": 12293
+    "aniListId": 12293,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far": {
-    "poster": "./assets/posters-webp/dcbc2f56835aab53.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153332-k3Jg04E9jNRo.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153332-k3Jg04E9jNRo.png",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/153332",
-    "aniListId": 153332
+    "aniListId": 153332,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::High School DxD": {
-    "poster": "./assets/posters-webp/1cbf973405aa76da.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/11617",
-    "aniListId": 11617
+    "aniListId": 11617,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::Tenchi Muyo! GXP": {
-    "poster": "./assets/posters-webp/a28eca8a14eb2cf2.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1133.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1133.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/1133",
-    "aniListId": 1133
+    "aniListId": 1133,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::Tenchi Muyo! War on Geminar": {
-    "poster": "./assets/posters-webp/52366d8b38ab6cf6.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5781-35eEKnvpvri8.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5781-35eEKnvpvri8.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/5781",
-    "aniListId": 5781
+    "aniListId": 5781,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "OVA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::Beast Tamer": {
-    "poster": "./assets/posters-webp/b646bb2ec0dc1c38.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150695-UOQF6Zz2iCTX.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150695-UOQF6Zz2iCTX.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/150695",
-    "aniListId": 150695
+    "aniListId": 150695,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::Cat Planet Cuties": {
-    "poster": "./assets/posters-webp/14ed2e4e2de853a1.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6166-TzYLyxIl3a6i.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6166-TzYLyxIl3a6i.png",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/6166",
-    "aniListId": 6166
+    "aniListId": 6166,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "TV",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "anime::Photon: The Idiot Adventures": {
-    "poster": "./assets/posters-webp/873ce617ed030383.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1944-67lTbV1bRXDK.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1944-67lTbV1bRXDK.png",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/anime/1944",
-    "aniListId": 1944
+    "aniListId": 1944,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "OVA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::How a Realist Hero Rebuilt the Kingdom": {
-    "poster": "./assets/posters-webp/09820c52c99393ca.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98171-H2x8ZR5B4WKo.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98171-H2x8ZR5B4WKo.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/98171",
-    "aniListId": 98171
+    "aniListId": 98171,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Level Up Just By Eating": {
-    "poster": "./assets/posters-webp/d48a74089b6df050.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109072-x3j8OUNVbvZC.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109072-x3j8OUNVbvZC.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/109072",
-    "aniListId": 109072
+    "aniListId": 109072,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Maga-Tsuki": {
-    "poster": "./assets/posters-webp/85675e47a79c143c.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx57989-QDoc8dulotfm.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx57989-QDoc8dulotfm.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/57989",
-    "aniListId": 57989
+    "aniListId": 57989,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Fujimura-kun Mates": {
-    "poster": "./assets/posters-webp/fee33d33e7f95590.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51729-j1ijNJwBVDqT.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51729-j1ijNJwBVDqT.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/51729",
-    "aniListId": 51729
+    "aniListId": 51729,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Honeymoon Salad": {
-    "poster": "./assets/posters-webp/70807fc018b346e7.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33515-NzFgbRY48RMB.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33515-NzFgbRY48RMB.png",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/33515",
-    "aniListId": 33515
+    "aniListId": 33515,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Undefeated Bahamut Chronicle": {
-    "poster": "./assets/posters-webp/e58dcdce172e89eb.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85613-TrfuOHd0QWvX.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85613-TrfuOHd0QWvX.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/85613",
-    "aniListId": 85613
+    "aniListId": 85613,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Monster Girl Doctor": {
-    "poster": "./assets/posters-webp/82e74100f562743f.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101286-5G17y1eP6pbl.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101286-5G17y1eP6pbl.png",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/101286",
-    "aniListId": 101286
+    "aniListId": 101286,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!": {
-    "poster": "./assets/posters-webp/65863493821a1bf4.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139031-XCGtvPY7bXOl.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139031-XCGtvPY7bXOl.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/139031",
-    "aniListId": 139031
+    "aniListId": 139031,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::I'm a NEET but when I went to Hello Work I got taken to another world": {
-    "poster": "./assets/posters-webp/53beed805c6dd2d4.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx101604-zZauFiwDzTn4.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx101604-zZauFiwDzTn4.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/101604",
-    "aniListId": 101604
+    "aniListId": 101604,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Tou no Kanri o Shite Miyou": {
-    "poster": "./assets/posters-webp/152a8a7b4b9092b9.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103736-UJaHwfsYreuT.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103736-UJaHwfsYreuT.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/103736",
-    "aniListId": 103736
+    "aniListId": 103736,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Reborn as a Barrier Master": {
-    "poster": "./assets/posters-webp/2723acb49ab67934.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110974-LzPOwOrIPRJM.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110974-LzPOwOrIPRJM.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/110974",
-    "aniListId": 110974
+    "aniListId": 110974,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Magic Stone Gourmet: Eating Magical Power Made Me The Strongest": {
-    "poster": "./assets/posters-webp/c66a605939857042.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110022-1qaIds3A78Zw.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110022-1qaIds3A78Zw.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/110022",
-    "aniListId": 110022
+    "aniListId": 110022,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon": {
-    "poster": "./assets/posters-webp/a72fb69695b0def4.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106233-Tsf8vOdkCtNy.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106233-Tsf8vOdkCtNy.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/106233",
-    "aniListId": 106233
+    "aniListId": 106233,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Survival in Another World with My Mistress!": {
-    "poster": "./assets/posters-webp/f2792119f376d40d.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123747-h4wfY7UR09lb.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123747-h4wfY7UR09lb.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/123747",
-    "aniListId": 123747
+    "aniListId": 123747,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::UQ Holder!": {
-    "poster": "./assets/posters-webp/87c73097c66da3fc.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55151-ua2lFiPlQxyK.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55151-ua2lFiPlQxyK.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/85151",
-    "aniListId": 85151
+    "aniListId": 85151,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::How NOT to Summon a Demon Lord": {
-    "poster": "./assets/posters-webp/ed8979bf3c0fa569.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86338-Z9RsXBc7Ao16.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86338-Z9RsXBc7Ao16.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/86338",
-    "aniListId": 86338
+    "aniListId": 86338,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::Humans are the Strongest Race": {
-    "poster": "./assets/posters-webp/13a760aa38d8b6d9.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107305-hZJ1fC7gSmC7.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107305-hZJ1fC7gSmC7.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/107305",
-    "aniListId": 107305
+    "aniListId": 107305,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::My Room Is a Dungeon Rest Stop": {
-    "poster": "./assets/posters-webp/e0d8984eb944a25d.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99573-Gba9MXugqLdq.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99573-Gba9MXugqLdq.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/99573",
-    "aniListId": 99573
+    "aniListId": 99573,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::The Testament of Sister New Devil": {
-    "poster": "./assets/posters-webp/f0dac2130980bc9d.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx81755-Jm1ROIB2RFKp.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx81755-Jm1ROIB2RFKp.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/81755",
-    "aniListId": 81755
+    "aniListId": 81755,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat": {
-    "poster": "./assets/posters-webp/6e559bfba40cf5dd.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107603-OX3eYJ4shBtv.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107603-OX3eYJ4shBtv.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/107603",
-    "aniListId": 107603
+    "aniListId": 107603,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manga::The Master of Ragnarok & Blesser of Einherjar": {
-    "poster": "./assets/posters-webp/dcd5b5a22849b278.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96418-I3RpA6N4FZ15.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96418-I3RpA6N4FZ15.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/96418",
-    "aniListId": 96418
+    "aniListId": 96418,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "hiddenAdult": false
   },
   "manhwa::The Book Eating Magician": {
-    "poster": "./assets/posters-webp/f72d3aff79e3a900.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137375-ujjseCQWuw2C.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137375-ujjseCQWuw2C.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/137375",
-    "aniListId": 137375
+    "aniListId": 137375,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false
   },
   "manhwa::My Blasted Reincarnated Life": {
-    "poster": "./assets/posters-webp/36e68d1067fe04a5.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151512-q0Xddr1JNKNq.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151512-q0Xddr1JNKNq.png",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/151512",
-    "aniListId": 151512
+    "aniListId": 151512,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false
   },
   "manhwa::The Knight King Who Returned with a God": {
-    "poster": "./assets/posters-webp/d848a9dc4998baa9.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165287-ZXv2LuVMn7cQ.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165287-ZXv2LuVMn7cQ.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/165287",
-    "aniListId": 165287
+    "aniListId": 165287,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false
   },
   "manhwa::The Heavenly Demon Wants a Quiet Life": {
-    "poster": "./assets/posters-webp/482f6d51ad144589.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185816-DhnjJEpwiur1.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185816-DhnjJEpwiur1.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/185816",
-    "aniListId": 185816
+    "aniListId": 185816,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false
   },
   "manhwa::Time-Limited Genius Dark Knight": {
-    "poster": "./assets/posters-webp/38a84ad898086130.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165182-k4Jfk2XMkylP.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165182-k4Jfk2XMkylP.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/165182",
-    "aniListId": 165182
+    "aniListId": 165182,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false
   },
   "manhwa::MEMORIZE": {
-    "poster": "./assets/posters-webp/4c158a7c8deea20d.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124846-LbVOcyoiG0Yl.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124846-LbVOcyoiG0Yl.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/124846",
-    "aniListId": 124846
+    "aniListId": 124846,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false
   },
   "manhwa::The Second Coming of Gluttony": {
-    "poster": "./assets/posters-webp/6c84f77f0183d818.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114198-0qSpHmfzpv5K.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114198-0qSpHmfzpv5K.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/114198",
-    "aniListId": 114198
+    "aniListId": 114198,
+    "aniListStatus": "CANCELLED",
+    "status": "cancelled",
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "hiddenAdult": false
   },
   "manhua::My Female Apprentices Are All Future Big Shots": {
-    "poster": "./assets/posters-webp/e0c6b24181760963.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b145325-eTItFlDmktEY.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b145325-eTItFlDmktEY.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/145325",
-    "aniListId": 145325
+    "aniListId": 145325,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false
   },
   "manhua::I Opened a Harem in Hell": {
-    "poster": "./assets/posters-webp/347221e0da139cef.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b148360-lYJpByiZ2egB.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b148360-lYJpByiZ2egB.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/148360",
-    "aniListId": 148360
+    "aniListId": 148360,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false
   },
   "manhua::Dark Star King": {
-    "poster": "./assets/posters-webp/cb8ec82a5ab81d77.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121763-x7lu5wiUI5jl.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121763-x7lu5wiUI5jl.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/121763",
-    "aniListId": 121763
+    "aniListId": 121763,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false
   },
   "manhua::The Time of Rebirth": {
-    "poster": "./assets/posters-webp/5f7bc244605c91b6.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b141102-4L1qUUVpsKz6.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b141102-4L1qUUVpsKz6.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/141102",
-    "aniListId": 141102
+    "aniListId": 141102,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false
   },
   "manhua::The Super Doctor From 2089": {
-    "poster": "./assets/posters-webp/04b6f0d064bc279a.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118698-l01QBgf0LgmQ.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118698-l01QBgf0LgmQ.png",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/118698",
-    "aniListId": 118698
+    "aniListId": 118698,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false
   },
   "manhua::Immortal Swordsman in Reverse World": {
-    "poster": "./assets/posters-webp/628dd5869ae6a505.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116027-G6af8xtMPXJH.png",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116027-G6af8xtMPXJH.png",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/116027",
-    "aniListId": 116027
+    "aniListId": 116027,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false
   },
   "manhua::I Eat Soft Rice in Another World": {
-    "poster": "./assets/posters-webp/7e7feb5e31c9849a.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159301-zlQC2YuT8Wcy.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159301-zlQC2YuT8Wcy.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/159301",
-    "aniListId": 159301
+    "aniListId": 159301,
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false
   },
   "manhua::Rise of the Mountain Chief": {
-    "poster": "./assets/posters-webp/5c0ea07d3248278e.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141581-3zcr6ZiU5nrR.jpg",
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141581-3zcr6ZiU5nrR.jpg",
     "coverSource": "AniList",
     "anilist": "https://anilist.co/manga/141581",
-    "aniListId": 141581
+    "aniListId": 141581,
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "hiddenAdult": false
   },
   "manhwa::Destined To Be Loved by the Villains": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187140-KaOPLwtIStid.png",
@@ -784,7 +1301,10 @@
     "anilist": "https://anilist.co/manga/187140",
     "aniListId": 187140,
     "format": "MANGA",
-    "countryOfOrigin": "KR"
+    "countryOfOrigin": "KR",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "manhwa::Seoul Station's Necromancer": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140896-aBT941ybjolV.png",
@@ -793,7 +1313,10 @@
     "anilist": "https://anilist.co/manga/140896",
     "aniListId": 140896,
     "format": "MANGA",
-    "countryOfOrigin": "KR"
+    "countryOfOrigin": "KR",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "manhwa::Surviving in a Romance Fantasy Novel": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186564-Qaf8KPpDKgvi.png",
@@ -802,7 +1325,10 @@
     "anilist": "https://anilist.co/manga/186564",
     "aniListId": 186564,
     "format": "MANGA",
-    "countryOfOrigin": "KR"
+    "countryOfOrigin": "KR",
+    "aniListStatus": "FINISHED",
+    "status": "complete",
+    "hiddenAdult": false
   },
   "anime::Against the Sky Supreme": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136862-s2HpY8Lg8qTS.jpg",
@@ -811,6 +1337,9 @@
     "anilist": "https://anilist.co/anime/136862",
     "aniListId": 136862,
     "format": "ONA",
-    "countryOfOrigin": "CN"
+    "countryOfOrigin": "CN",
+    "aniListStatus": "RELEASING",
+    "status": "ongoing",
+    "hiddenAdult": false
   }
 }
