@@ -35,7 +35,8 @@ const POWER_GROWS_OP = new Set([
   "The Second Coming of Gluttony",
   "Level Up Just By Eating",
   "Reborn as a Barrier Master",
-  "Magic Stone Gourmet: Eating Magical Power Made Me The Strongest"
+  "Magic Stone Gourmet: Eating Magical Power Made Me The Strongest",
+  "The Academy’s Sashimi Sword Master"
 ]);
 
 const POWER_LATENT_OP = new Set([
@@ -50,6 +51,25 @@ function getPowerClass(title) {
   if (POWER_LATENT_OP.has(title)) return "latent-op";
   return null;
 }
+
+const EVIDENCE_OVERRIDES = {
+  "manhwa::The Demon Prince Goes to the Academy": {
+    sourceName: "NovelUpdates source route",
+    sourceUrl: "https://www.novelupdates.com/series/the-demon-prince-goes-to-the-academy/"
+  },
+  "novel::The Demon Prince Goes to the Academy": {
+    sourceName: "NovelUpdates Polygamy + ending evidence",
+    sourceUrl: "https://www.novelupdates.com/series/the-demon-prince-goes-to-the-academy/"
+  },
+  "manhwa::The Academy’s Sashimi Sword Master": {
+    sourceName: "NovelUpdates source route",
+    sourceUrl: "https://www.novelupdates.com/series/the-academys-sashimi-sword-master/"
+  },
+  "novel::The Academy’s Sashimi Sword Master": {
+    sourceName: "NovelUpdates Polygamy + ending evidence",
+    sourceUrl: "https://www.novelupdates.com/series/the-academys-sashimi-sword-master/"
+  }
+};
 
 window.TRUE_HAREM_DATA = {
   works: [
@@ -75,6 +95,8 @@ window.TRUE_HAREM_DATA = {
     ["Destined To Be Loved by the Villains","manhwa","KR","cancelled","FH","source-only","sfw"],
     ["Seoul Station's Necromancer","manhwa","KR","complete","FH","source-only","sfw"],
     ["Surviving in a Romance Fantasy Novel","manhwa","KR","cancelled","FH","source-only","sfw"],
+    ["The Demon Prince Goes to the Academy","manhwa","KR","complete","FH","source-only","sfw"],
+    ["The Academy’s Sashimi Sword Master","manhwa","KR","ongoing","FH","source-only","sfw"],
 
     ["My Girlfriend Is a Zombie","manhua","CN","complete","FH","confirmed","sfw"],
     ["Evil Young Master Doesn't Want a Bad Ending","manhua","CN","complete","FH","confirmed","sfw"],
@@ -160,6 +182,8 @@ window.TRUE_HAREM_DATA = {
     ["In Another World With My Smartphone","novel","JP","ongoing","FH","source-only","sfw"],
     ["How a Realist Hero Rebuilt the Kingdom","novel","JP","complete","FH","confirmed","sfw"],
     ["Mushoku Tensei","novel","JP","complete","FH","confirmed","ecchi"],
+    ["The Demon Prince Goes to the Academy","novel","KR","complete","FH","confirmed","sfw"],
+    ["The Academy’s Sashimi Sword Master","novel","KR","ongoing","FH","confirmed","sfw"],
 
     ["Xenoblade Chronicles 2","game","JP","complete","FH","confirmed","sfw"],
     ["Jade Empire","game","Other","complete","FH","confirmed","sfw"],
@@ -170,12 +194,15 @@ window.TRUE_HAREM_DATA = {
     ["Snowbreak: Containment Zone","game","CN","ongoing","FH","source-only","ecchi"],
     ["Asdivine Dios","game","JP","complete","FH","confirmed","sfw"],
     ["Conception II: Children of the Seven Stars","game","JP","complete","FH","confirmed","sfw"]
-  ].map(([title,type,origin,status,haremType,verification,contentClass]) => ({
-    title,type,origin,status,haremType,verification,contentClass,
-    powerClass: getPowerClass(title),
-    sourceName: verification === "confirmed" ? "TrueHarem / community evidence" : "TrueHarem source route",
-    sourceUrl: "https://trueharem.carrd.co/"
-  })),
+  ].map(([title,type,origin,status,haremType,verification,contentClass]) => {
+    const base = {
+      title,type,origin,status,haremType,verification,contentClass,
+      powerClass: getPowerClass(title),
+      sourceName: verification === "confirmed" ? "TrueHarem / community evidence" : "TrueHarem source route",
+      sourceUrl: "https://trueharem.carrd.co/"
+    };
+    return {...base, ...(EVIDENCE_OVERRIDES[type+"::"+title]||{})};
+  }),
   sources: [
     {
       name:"TrueHarem",

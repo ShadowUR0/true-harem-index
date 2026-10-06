@@ -1341,5 +1341,33 @@
     "aniListStatus": "RELEASING",
     "status": "ongoing",
     "hiddenAdult": false
+  },
+  "manhwa::The Demon Prince Goes to the Academy": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160750-9ObJQ7R7u3Us.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160750-9ObJQ7R7u3Us.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/160750",
+    "aniListId": 160750,
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "status": "complete",
+    "aniListStatus": "FINISHED",
+    "hiddenAdult": false,
+    "titleEnglish": "Demon King of the Royal Class",
+    "titleRomaji": "Mawangeun Hagwone Ganda"
+  },
+  "manhwa::The Academy’s Sashimi Sword Master": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184502-uu4QoBUwEfNH.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184502-uu4QoBUwEfNH.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/184502",
+    "aniListId": 184502,
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "status": "ongoing",
+    "aniListStatus": "RELEASING",
+    "hiddenAdult": false,
+    "titleEnglish": "The Academy’s Sashimi Sword Master",
+    "titleRomaji": "Sashimi Han Jaruro Academy-reul Ssipeomeokeum"
   }
 }

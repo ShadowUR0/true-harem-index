@@ -88,7 +88,11 @@
     const rows=groupAll().filter(g=>{
       const indexed=g.versions;
       const known=g.knownVersions;
-      const searchable=[g.title,...indexed.map(v=>v.title),...g.related.map(v=>v.title)].map(norm).join(" ");
+      const searchable=[
+        g.title,
+        ...indexed.flatMap(v=>[v.title,v.media?.titleEnglish,v.media?.titleRomaji].filter(Boolean)),
+        ...g.related.flatMap(v=>[v.title,v.romaji].filter(Boolean))
+      ].map(norm).join(" ");
       return (!q||searchable.includes(q)) &&
         (state.type==="all"||known.some(v=>v.type===state.type)) &&
         (state.status==="all"||known.some(v=>v.status===state.status)) &&
@@ -358,7 +362,7 @@
   function versionRow(v){
     const status=labels.status[v.status]||v.status||"غير معروف";
     const verify=v.indexed?(labels.verification[v.verification]||v.verification):"Not reviewed";
-    const link=v.indexed?(v.media?.anilist||v.media?.mangadex):v.anilist;
+    const link=v.indexed?(v.media?.anilist||v.media?.mangadex||v.sourceUrl):(v.anilist||v.url);
     return `<div class="version-row ${v.indexed?"indexed":"unreviewed"}">
       <div class="version-main">
         <span class="version-type type-${v.type}">${labels.type[v.type]||v.type}</span>
