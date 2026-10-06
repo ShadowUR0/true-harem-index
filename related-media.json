@@ -718,5 +718,113 @@
       "origin": "JP",
       "hiddenAdult": false
     }
+  ],
+  "The Fruit of Evolution": [
+    {
+      "type": "novel",
+      "title": "The Fruit of Evolution: Before I Knew It, My Life Had It Made!",
+      "status": "complete",
+      "anilist": "https://anilist.co/manga/86333",
+      "aniListId": 86333,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86333-ahaswE7cMGTW.jpg",
+      "format": "NOVEL",
+      "origin": "JP"
+    }
+  ],
+  "Dusk Beyond the End of the World": [
+    {
+      "type": "manga",
+      "title": "Towa no Yuugure",
+      "status": "complete",
+      "anilist": "https://anilist.co/manga/203852",
+      "aniListId": 203852,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203852-oJtTCtkhidcl.jpg",
+      "format": "MANGA",
+      "origin": "JP"
+    }
+  ],
+  "Magika no Kenshi to Vasileus": [
+    {
+      "type": "novel",
+      "title": "Magika no Kenshi to Vasreus",
+      "status": "complete",
+      "anilist": "https://anilist.co/manga/85233",
+      "aniListId": 85233,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85233-lbwMoSgnJNda.jpg",
+      "format": "NOVEL",
+      "origin": "JP"
+    }
+  ],
+  "World Break: Aria of Curse for a Holy Swordsman": [
+    {
+      "type": "novel",
+      "title": "Seiken Tsukai no World Break",
+      "status": "complete",
+      "anilist": "https://anilist.co/manga/86014",
+      "aniListId": 86014,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86014-gDkvstv7f1yN.jpg",
+      "format": "NOVEL",
+      "origin": "JP"
+    }
+  ],
+  "Assistant Teacher at a Girls Magic Academy": [
+    {
+      "type": "novel",
+      "title": "Mahou Joshi Gakuen no Suketto Kyoushi",
+      "status": "ongoing",
+      "anilist": "https://anilist.co/manga/107322",
+      "aniListId": 107322,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107322-C7GczHxMKKXO.jpg",
+      "format": "NOVEL",
+      "origin": "JP"
+    }
+  ],
+  "The Cursed Sword Master’s Harem Life: By the Sword, For the Sword": [
+    {
+      "type": "novel",
+      "title": "Makenshi no Maken Niyoru Maken no Tame no Harem Life",
+      "status": "complete",
+      "anilist": "https://anilist.co/manga/117457",
+      "aniListId": 117457,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117457-Zk2rNo605Gce.jpg",
+      "format": "NOVEL",
+      "origin": "JP"
+    }
+  ],
+  "Mysterious Job Called Oda Nobunaga": [
+    {
+      "type": "novel",
+      "title": "A Mysterious Job Called Oda Nobunaga",
+      "status": "complete",
+      "anilist": "https://anilist.co/manga/116653",
+      "aniListId": 116653,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116653-0mkby7mAD8Sn.jpg",
+      "format": "NOVEL",
+      "origin": "JP"
+    }
+  ],
+  "Ossan Teihen Chiyu-shi to Manasume no Henkyou Life": [
+    {
+      "type": "novel",
+      "title": "Ossan Teihen Chiyu-shi to Manasume no Henkyou Life",
+      "status": "ongoing",
+      "anilist": "https://anilist.co/manga/124760",
+      "aniListId": 124760,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124760-k4meZ0DEOcfE.jpg",
+      "format": "NOVEL",
+      "origin": "JP"
+    }
+  ],
+  "From Elf Reincarnation to Cheat Kingdom Founding Chronicle": [
+    {
+      "type": "novel",
+      "title": "Elf Tensei Kara no Cheat Kenkokuki",
+      "status": "complete",
+      "anilist": "https://anilist.co/manga/86400",
+      "aniListId": 86400,
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86400-CVGwV7BoHYXg.jpg",
+      "format": "NOVEL",
+      "origin": "JP"
+    }
   ]
 }

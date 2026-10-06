@@ -36,7 +36,8 @@ const POWER_GROWS_OP = new Set([
   "Level Up Just By Eating",
   "Reborn as a Barrier Master",
   "Magic Stone Gourmet: Eating Magical Power Made Me The Strongest",
-  "The Academy’s Sashimi Sword Master"
+  "The Academy’s Sashimi Sword Master",
+  "The Fruit of Evolution"
 ]);
 
 const POWER_LATENT_OP = new Set([
@@ -141,6 +142,8 @@ window.TRUE_HAREM_DATA = {
     ["Cat Planet Cuties","anime","JP","unknown","FH","source-only","ecchi"],
     ["Photon: The Idiot Adventures","anime","JP","complete","FH","confirmed","ecchi"],
     ["Against the Sky Supreme","anime","CN","ongoing","FH","source-only","sfw"],
+    ["Dusk Beyond the End of the World","anime","JP","complete","FH","confirmed","sfw"],
+    ["The Fruit of Evolution","anime","JP","complete","FH","confirmed","sfw"],
 
     ["Kanojo mo Kanojo","manga","JP","complete","FH","confirmed","ecchi"],
     ["Farming Life in Another World","manga","JP","ongoing","FH","source-only","sfw"],
@@ -177,6 +180,15 @@ window.TRUE_HAREM_DATA = {
     ["Survival in Another World with My Mistress!","manga","JP","ongoing","FH","source-only","ecchi"],
     ["UQ Holder!","manga","JP","complete","FH","confirmed","sfw"],
     ["How NOT to Summon a Demon Lord","manga","JP","ongoing","FH","source-only","ecchi"],
+    ["Yomeiro Choice","manga","JP","complete","FH","confirmed","ecchi"],
+    ["The Cursed Sword Master’s Harem Life: By the Sword, For the Sword","manga","JP","ongoing","FH","confirmed","ecchi"],
+    ["Ossan Teihen Chiyu-shi to Manasume no Henkyou Life","manga","JP","ongoing","FH","confirmed","sfw"],
+    ["From Elf Reincarnation to Cheat Kingdom Founding Chronicle","manga","JP","complete","FH","confirmed","ecchi"],
+    ["Mysterious Job Called Oda Nobunaga","manga","JP","complete","FH","confirmed","sfw"],
+    ["Assistant Teacher at a Girls Magic Academy","manga","JP","complete","FH","confirmed","sfw"],
+    ["Magika no Kenshi to Vasileus","manga","JP","complete","FH","confirmed","ecchi"],
+    ["World Break: Aria of Curse for a Holy Swordsman","manga","JP","complete","FH","confirmed","sfw"],
+    ["The Fruit of Evolution","manga","JP","ongoing","FH","confirmed","sfw"],
 
     ["Arifureta Shokugyou de Sekai Saikyou","novel","JP","complete","FH","confirmed","ecchi"],
     ["In Another World With My Smartphone","novel","JP","ongoing","FH","source-only","sfw"],
