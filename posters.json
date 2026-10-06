@@ -182,13 +182,15 @@
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98491-5vyX89aabiHz.jpg"
   },
   "anime::Kanojo mo Kanojo": {
-    "poster": "./assets/posters-webp/396e019165948555.webp",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126192-3fFbZJFSwrHH.jpg",
     "banner": null,
     "color": "#e45d93",
-    "anilist": "https://anilist.co/anime/213581",
+    "anilist": "https://anilist.co/anime/126192",
     "format": null,
     "countryOfOrigin": "JP",
-    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213581-sywAYAYI7lVU.jpg"
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126192-3fFbZJFSwrHH.jpg",
+    "coverSource": "AniList",
+    "aniListId": 126192
   },
   "anime::Mushoku Tensei": {
     "poster": "./assets/posters-webp/5eabab4533c8fec3.webp",
@@ -212,9 +214,11 @@
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png"
   },
   "manga::Kanojo mo Kanojo": {
-    "poster": "./assets/posters-webp/a82d0b41e52f3171.webp",
-    "mangadex": "https://mangadex.org/title/e83c326b-921b-45ff-bc0c-d667bbfe64cc",
-    "sourcePoster": "https://uploads.mangadex.org/covers/e83c326b-921b-45ff-bc0c-d667bbfe64cc/3630dde4-2365-4aee-88ac-49bd78ac3e56.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116266-VouBBsn4mVHc.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116266-VouBBsn4mVHc.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/116266",
+    "aniListId": 116266
   },
   "manga::Farming Life in Another World": {
     "poster": "./assets/posters-webp/ccdac06bf12d68a7.webp",
