@@ -13,7 +13,9 @@ const POWER_OP = new Set([
   "The Heavenly Demon Wants a Quiet Life",
   "MEMORIZE",
   "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far",
-  "How NOT to Summon a Demon Lord"
+  "How NOT to Summon a Demon Lord",
+  "Seoul Station's Necromancer",
+  "Against the Sky Supreme"
 ]);
 
 const POWER_GROWS_OP = new Set([
@@ -70,6 +72,9 @@ window.TRUE_HAREM_DATA = {
     ["Time-Limited Genius Dark Knight","manhwa","KR","ongoing","FH","source-only","sfw"],
     ["MEMORIZE","manhwa","KR","hiatus","FH","source-only","sfw"],
     ["The Second Coming of Gluttony","manhwa","KR","cancelled","FH","source-only","sfw"],
+    ["Destined To Be Loved by the Villains","manhwa","KR","cancelled","FH","source-only","sfw"],
+    ["Seoul Station's Necromancer","manhwa","KR","complete","FH","source-only","sfw"],
+    ["Surviving in a Romance Fantasy Novel","manhwa","KR","cancelled","FH","source-only","sfw"],
 
     ["My Girlfriend Is a Zombie","manhua","CN","complete","FH","confirmed","sfw"],
     ["Evil Young Master Doesn't Want a Bad Ending","manhua","CN","complete","FH","confirmed","sfw"],
@@ -113,6 +118,7 @@ window.TRUE_HAREM_DATA = {
     ["Beast Tamer","anime","JP","ongoing","FH","source-only","sfw"],
     ["Cat Planet Cuties","anime","JP","unknown","FH","source-only","ecchi"],
     ["Photon: The Idiot Adventures","anime","JP","complete","FH","confirmed","ecchi"],
+    ["Against the Sky Supreme","anime","CN","ongoing","FH","source-only","sfw"],
 
     ["Kanojo mo Kanojo","manga","JP","complete","FH","confirmed","ecchi"],
     ["Farming Life in Another World","manga","JP","ongoing","FH","source-only","sfw"],
