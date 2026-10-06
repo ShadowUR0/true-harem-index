@@ -221,74 +221,130 @@
     "aniListId": 116266
   },
   "manga::Farming Life in Another World": {
-    "poster": "./assets/posters-webp/ccdac06bf12d68a7.webp",
-    "mangadex": "https://mangadex.org/title/4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2",
-    "sourcePoster": "https://uploads.mangadex.org/covers/4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2/8637cea7-d551-4b55-9394-277a3bf7fbb3.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100456-8RMZfz4Tqjln.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100456-8RMZfz4Tqjln.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/100456",
+    "aniListId": 100456,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::Tales of Wedding Rings": {
-    "poster": "./assets/posters-webp/ca5b2730c40a92a8.webp",
-    "mangadex": "https://mangadex.org/title/df59c687-346f-45fa-b351-ee8dc09f752f",
-    "sourcePoster": "https://uploads.mangadex.org/covers/df59c687-346f-45fa-b351-ee8dc09f752f/ea8efae7-ba27-4111-8c8a-e6b2e71fa663.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85310-EUF315ZIid1Z.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85310-EUF315ZIid1Z.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/85310",
+    "aniListId": 85310,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::In Another World With My Smartphone": {
-    "poster": "./assets/posters-webp/8bb6f782b120d9b8.webp",
-    "mangadex": "https://mangadex.org/title/4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2",
-    "sourcePoster": "https://uploads.mangadex.org/covers/4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2/8637cea7-d551-4b55-9394-277a3bf7fbb3.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99465-8YHBb8GxSGaX.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99465-8YHBb8GxSGaX.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/99465",
+    "aniListId": 99465,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::Demon King Daimao": {
-    "poster": "./assets/posters-webp/2748e5ba61fef240.webp",
-    "mangadex": "https://mangadex.org/title/9127461c-211e-4a8d-adfa-68eac68be7fa",
-    "sourcePoster": "https://uploads.mangadex.org/covers/9127461c-211e-4a8d-adfa-68eac68be7fa/a996cb43-9daf-4e56-977e-9bc021f513a7.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44923-NZvkqaMbejT5.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44923-NZvkqaMbejT5.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/44923",
+    "aniListId": 44923,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::Sekirei": {
-    "poster": "./assets/posters-webp/c4670d4046e3cf68.webp",
-    "mangadex": "https://mangadex.org/title/2d4cd5ea-ee03-4991-8d14-25b4b68dfdee",
-    "sourcePoster": "https://uploads.mangadex.org/covers/2d4cd5ea-ee03-4991-8d14-25b4b68dfdee/28022e28-9717-4f69-9401-1d646d24a20c.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30873-Ta0oMK1QTdWc.png",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30873-Ta0oMK1QTdWc.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/30873",
+    "aniListId": 30873,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::Re:Monster": {
-    "poster": "./assets/posters-webp/235618d3d5a44753.webp",
-    "mangadex": "https://mangadex.org/title/eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f",
-    "sourcePoster": "https://uploads.mangadex.org/covers/eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f/d65c80b4-6f6f-4d7d-a71e-41e138eebab3.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85495-uaUAZaDdI0YB.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85495-uaUAZaDdI0YB.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/85495",
+    "aniListId": 85495,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::Mushoku Tensei": {
-    "poster": "./assets/posters-webp/1f9b80c9a797444a.webp",
-    "mangadex": "https://mangadex.org/title/bd6d0982-0091-4945-ad70-c028ed3c0917",
-    "sourcePoster": "https://uploads.mangadex.org/covers/bd6d0982-0091-4945-ad70-c028ed3c0917/6a9f3d32-b7bb-478a-9c76-54868276c26f.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85564-egXRASF0x9B9.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85564-egXRASF0x9B9.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/85564",
+    "aniListId": 85564,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::Omamori Himari": {
-    "poster": "./assets/posters-webp/2c4346287ff21939.webp",
-    "mangadex": "https://mangadex.org/title/ce3560f9-ce30-4ab9-a124-836270014857",
-    "sourcePoster": "https://uploads.mangadex.org/covers/ce3560f9-ce30-4ab9-a124-836270014857/954986f0-8701-41ea-9653-a3c507f9fae4.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31745-Zv9XRQuKpVSc.png",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31745-Zv9XRQuKpVSc.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/31745",
+    "aniListId": 31745,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::Love Tyrant": {
-    "poster": "./assets/posters-webp/9c23d5680b09ee06.webp",
-    "mangadex": "https://mangadex.org/title/704a51da-57a2-4d6c-a6da-71bb0c6bae0c",
-    "sourcePoster": "https://uploads.mangadex.org/covers/704a51da-57a2-4d6c-a6da-71bb0c6bae0c/0bf75734-1953-43eb-9ab0-3b9606e6037a.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx71949-iDf1DHsFAav5.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx71949-iDf1DHsFAav5.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/71949",
+    "aniListId": 71949,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::Trapped in a Dating Sim": {
-    "poster": "./assets/posters-webp/0145056d6a1bd942.webp",
-    "mangadex": "https://mangadex.org/title/a605a5d0-21a6-481f-a055-74735ea4f2c2",
-    "sourcePoster": "https://uploads.mangadex.org/covers/a605a5d0-21a6-481f-a055-74735ea4f2c2/62e79661-7c2b-404d-89c8-908abe64ba4f.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104503-O9OmaU1sVCNW.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104503-O9OmaU1sVCNW.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/104503",
+    "aniListId": 104503,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::The 8th Son? Are You Kidding Me?": {
-    "poster": "./assets/posters-webp/b7c20023eeed079e.webp",
-    "mangadex": "https://mangadex.org/title/5a46590b-14df-43f6-8450-5813cbf482e7",
-    "sourcePoster": "https://uploads.mangadex.org/covers/5a46590b-14df-43f6-8450-5813cbf482e7/b3acae91-07af-4af8-ae15-767c884db8e6.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx96344-Dw9xBv2ximH8.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx96344-Dw9xBv2ximH8.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/96344",
+    "aniListId": 96344,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::Madan no Ou to Vanadis": {
-    "poster": "./assets/posters-webp/c013a46bb136b63b.webp",
-    "mangadex": "https://mangadex.org/title/2e49632c-c3c6-443a-a86d-f588f331eef2",
-    "sourcePoster": "https://uploads.mangadex.org/covers/2e49632c-c3c6-443a-a86d-f588f331eef2/4796cf97-ef87-4713-8cd2-0dc2dd17fdce.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx73391-LrkERjduoAvV.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx73391-LrkERjduoAvV.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/73391",
+    "aniListId": 73391,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "manga::An Ideal Lazy Life": {
-    "poster": "./assets/posters-webp/0044bb3859f33668.webp",
-    "mangadex": "https://mangadex.org/title/85456d9d-9c70-49e4-bbda-462b5a4af3c4",
-    "sourcePoster": "https://uploads.mangadex.org/covers/85456d9d-9c70-49e4-bbda-462b5a4af3c4/bb8b7724-a070-4b8f-918e-f16eb93e50c7.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98347-8WilPyGXtetn.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98347-8WilPyGXtetn.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/98347",
+    "aniListId": 98347,
+    "format": "MANGA",
+    "countryOfOrigin": "JP"
   },
   "anime::Tales of Wedding Rings": {
-    "poster": "./assets/posters-webp/200ed0f11b9eb3de.webp",
-    "mangadex": "https://mangadex.org/title/df59c687-346f-45fa-b351-ee8dc09f752f",
-    "sourcePoster": "https://uploads.mangadex.org/covers/df59c687-346f-45fa-b351-ee8dc09f752f/ea8efae7-ba27-4111-8c8a-e6b2e71fa663.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160389-2f6SosbyUpxX.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160389-2f6SosbyUpxX.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/160389",
+    "aniListId": 160389,
+    "format": "TV",
+    "countryOfOrigin": "JP"
   },
   "anime::The Fruit of Grisaia": {
     "poster": "./assets/posters-webp/a8b06cef29ea18d9.webp",
@@ -296,9 +352,13 @@
     "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17729-Xhgile3kCpqB.jpg"
   },
   "manhwa::Nano Machina": {
-    "poster": "./assets/posters-webp/e92f0333040dc64d.webp",
-    "mangadex": "https://mangadex.org/title/6e4805a6-75ab-462d-883c-4ddedb8e4df6",
-    "sourcePoster": "https://uploads.mangadex.org/covers/6e4805a6-75ab-462d-883c-4ddedb8e4df6/16406b53-9224-4639-8511-9951484ad99a.jpg.512.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/120980",
+    "aniListId": 120980,
+    "format": "MANGA",
+    "countryOfOrigin": "KR"
   },
   "game::Snowbreak: Containment Zone": {
     "poster": "./assets/posters-webp/9259d53a0b2f0a25.webp",
@@ -306,24 +366,40 @@
     "sourcePoster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mili_Logo.png/960px-Mili_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   "novel::How a Realist Hero Rebuilt the Kingdom": {
-    "poster": "./assets/posters-webp/d58c4292eb664e63.webp",
-    "coverSource": "Open Library",
-    "sourcePoster": "https://covers.openlibrary.org/b/id/8819587-L.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx97752-MrIVhqaiQkSb.jpg",
+    "coverSource": "AniList",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx97752-MrIVhqaiQkSb.jpg",
+    "anilist": "https://anilist.co/manga/97752",
+    "aniListId": 97752,
+    "format": "NOVEL",
+    "countryOfOrigin": "JP"
   },
   "novel::Arifureta Shokugyou de Sekai Saikyou": {
-    "poster": "./assets/posters-webp/7b569342f9d64384.webp",
-    "coverSource": "Open Library",
-    "sourcePoster": "https://covers.openlibrary.org/b/id/8782770-L.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86274-nAItDrzi9fne.jpg",
+    "coverSource": "AniList",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86274-nAItDrzi9fne.jpg",
+    "anilist": "https://anilist.co/manga/86274",
+    "aniListId": 86274,
+    "format": "NOVEL",
+    "countryOfOrigin": "JP"
   },
   "novel::In Another World With My Smartphone": {
-    "poster": "./assets/posters-webp/c656f5320b0422e8.webp",
-    "coverSource": "Open Library",
-    "sourcePoster": "https://covers.openlibrary.org/b/id/12196552-L.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57174-kvUGSfabNxB0.jpg",
+    "coverSource": "AniList",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57174-kvUGSfabNxB0.jpg",
+    "anilist": "https://anilist.co/manga/87174",
+    "aniListId": 87174,
+    "format": "NOVEL",
+    "countryOfOrigin": "JP"
   },
   "novel::Mushoku Tensei": {
-    "poster": "./assets/posters-webp/1f4fc5e0af753535.webp",
-    "coverSource": "Open Library",
-    "sourcePoster": "https://covers.openlibrary.org/b/id/8758875-L.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85470-jt6BF9tDWB2X.jpg",
+    "coverSource": "AniList",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85470-jt6BF9tDWB2X.jpg",
+    "anilist": "https://anilist.co/manga/85470",
+    "aniListId": 85470,
+    "format": "NOVEL",
+    "countryOfOrigin": "JP"
   },
   "anime::The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You": {
     "poster": "./assets/posters-webp/626888c303aeccc0.webp",
