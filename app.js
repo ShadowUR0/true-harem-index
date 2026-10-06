@@ -3,10 +3,11 @@
   const sources = window.TRUE_HAREM_DATA.sources;
   const savedMeta = JSON.parse(localStorage.getItem("trueHaremAniListMeta") || "{}");
   let posters = {};
+  let relatedMedia = {};
 
   const labels = {
     type:{anime:"Anime",manga:"Manga",manhwa:"Manhwa",manhua:"Manhua",novel:"Light Novel",game:"Game"},
-    status:{complete:"مكتمل",ongoing:"مستمر",hiatus:"Hiatus",cancelled:"Cancelled",unknown:"غير محسوم"},
+    status:{complete:"مكتمل",ongoing:"مستمر",hiatus:"Hiatus",cancelled:"Cancelled",upcoming:"Upcoming",unknown:"غير محسوم"},
     verification:{confirmed:"مؤكد","source-only":"المصدر مؤكد"},
     origin:{JP:"Japan",KR:"Korea",CN:"China",Other:"Other"},
     power:{op:"Overpowered","grows-op":"Becomes OP","latent-op":"Latent OP"}
@@ -32,21 +33,52 @@
     return works0.map(w=>({...w,...(savedMeta[key(w)]||{}),media:posters[key(w)]||{}})).filter(w=>!w.hiddenAdult);
   }
 
+  function seriesKey(w){ return norm(w.title); }
+
+  function groupAll(){
+    const map=new Map();
+    for(const w of merged()){
+      const k=seriesKey(w);
+      if(!map.has(k)) map.set(k,{id:k,title:w.title,versions:[]});
+      map.get(k).versions.push(w);
+    }
+    return [...map.values()].map(g=>{
+      const related=(relatedMedia[g.title]||[]).filter(r=>!g.versions.some(v=>v.media?.anilist&&v.media.anilist===r.anilist));
+      const priority={anime:0,manhwa:1,manga:2,manhua:3,novel:4,game:5};
+      const primary=[...g.versions].sort((a,b)=>
+        Number(!!b.media?.poster)-Number(!!a.media?.poster) ||
+        (priority[a.type]??9)-(priority[b.type]??9) ||
+        Number(b.verification==="confirmed")-Number(a.verification==="confirmed")
+      )[0];
+      const knownVersions=[
+        ...g.versions.map(v=>({...v,indexed:true})),
+        ...related.map(r=>({...r,indexed:false,verification:"unreviewed",contentClass:null,origin:null,powerClass:null}))
+      ];
+      return {...g,primary,related,knownVersions};
+    });
+  }
+
   function filtered(){
     const q=norm(state.q);
-    const rows=merged().filter(w=>
-      (!q||norm(w.title).includes(q)) &&
-      (state.type==="all"||w.type===state.type) &&
-      (state.status==="all"||w.status===state.status) &&
-      (state.verification==="all"||w.verification===state.verification) &&
-      (state.content==="all"||w.contentClass===state.content) &&
-      (state.origin==="all"||w.origin===state.origin) &&
-      (state.power==="all"||w.powerClass===state.power)
-    );
+    const rows=groupAll().filter(g=>{
+      const indexed=g.versions;
+      const known=g.knownVersions;
+      const searchable=[g.title,...indexed.map(v=>v.title),...g.related.map(v=>v.title)].map(norm).join(" ");
+      return (!q||searchable.includes(q)) &&
+        (state.type==="all"||known.some(v=>v.type===state.type)) &&
+        (state.status==="all"||known.some(v=>v.status===state.status)) &&
+        (state.verification==="all"||indexed.some(v=>v.verification===state.verification)) &&
+        (state.content==="all"||indexed.some(v=>v.contentClass===state.content)) &&
+        (state.origin==="all"||indexed.some(v=>v.origin===state.origin)) &&
+        (state.power==="all"||indexed.some(v=>v.powerClass===state.power));
+    });
     if(state.sort==="title") rows.sort((a,b)=>a.title.localeCompare(b.title));
-    else if(state.sort==="complete") rows.sort((a,b)=>Number(b.status==="complete")-Number(a.status==="complete")||a.title.localeCompare(b.title));
+    else if(state.sort==="complete") rows.sort((a,b)=>
+      Number(b.knownVersions.some(v=>v.status==="complete"))-Number(a.knownVersions.some(v=>v.status==="complete")) ||
+      a.title.localeCompare(b.title)
+    );
     else rows.sort((a,b)=>{
-      const score=w=>Number(!!w.media.poster)*8+Number(w.verification==="confirmed")*4+Number(w.status==="complete")*2;
+      const score=g=>Number(!!g.primary?.media?.poster)*8+Number(g.versions.some(v=>v.verification==="confirmed"))*4+Number(g.knownVersions.some(v=>v.status==="complete"))*2;
       return score(b)-score(a);
     });
     return rows;
@@ -164,9 +196,11 @@
 
   function renderTypeTabs(){
     const options=[["all","All"],["anime","Anime"],["manga","Manga"],["manhwa","Manhwa"],["manhua","Manhua"],["novel","Light Novel"],["game","Game"]];
-    const all=merged();
+    const all=groupAll();
     const counts={all:all.length};
-    for(const w of all) counts[w.type]=(counts[w.type]||0)+1;
+    for(const g of all){
+      for(const t of new Set(g.knownVersions.map(v=>v.type))) counts[t]=(counts[t]||0)+1;
+    }
     $("#typeTabs").innerHTML=options.map(([value,text])=>
       `<button class="media-type-tab ${state.type===value?"active":""}" type="button" data-value="${value}">
         <span>${text}</span><span class="media-type-tab-count">${counts[value]||0}</span>
@@ -214,30 +248,38 @@
 
   function renderGrid(){
     const rows=filtered();
-    $("#resultCount").textContent=rows.length+" نتيجة";
+    const indexedCount=rows.reduce((n,g)=>n+g.versions.length,0);
+    $("#resultCount").textContent=rows.length+" أعمال · "+indexedCount+" نسخ مفهرسة";
     $("#empty").hidden=rows.length!==0;
-    $("#grid").innerHTML=rows.map((w,i)=>{
+    $("#grid").innerHTML=rows.map((g,i)=>{
+      const w=g.primary;
       const side=(i%5<3)?"left":"right";
+      const types=[...new Set(g.knownVersions.map(v=>v.type))];
+      const groupVerification=g.versions.some(v=>v.verification==="confirmed")?"confirmed":"source-only";
+      const statusSummary=[...new Set(g.knownVersions.map(v=>labels.status[v.status]||v.status))].join(" · ");
       return `
       <article class="media-card" data-index="${i}" tabindex="0" role="button">
         <div class="cover-wrap">
           ${cover(w,i)}
-          <span class="media-type type-${w.type}">${labels.type[w.type]}</span>
-          <span class="confirm-badge ${w.verification}" title="${labels.verification[w.verification]}">${w.verification==="confirmed"?"✓":"•"}</span>
+          <div class="media-type-stack">
+            ${types.map(t=>`<span class="media-type type-${t}">${labels.type[t]||t}</span>`).join("")}
+          </div>
+          <span class="confirm-badge ${groupVerification}" title="${labels.verification[groupVerification]}">${groupVerification==="confirmed"?"✓":"•"}</span>
         </div>
-        <h3 class="media-title">${esc(w.title)}</h3>
+        <h3 class="media-title">${esc(g.title)}</h3>
         <aside class="ani-hover-data ${side}">
-          <div class="ani-hover-title">${esc(w.title)}</div>
+          <div class="ani-hover-title">${esc(g.title)}</div>
           <div class="ani-hover-meta">
-            <div><strong>Type:</strong> ${labels.type[w.type]}</div>
-            <div><strong>Status:</strong> ${labels.status[w.status]}</div>
-            <div><strong>Origin:</strong> ${labels.origin[w.origin]||w.origin}</div>
-            <div><strong>True Harem:</strong> ${labels.verification[w.verification]}</div>
-            <div><strong>Content:</strong> ${w.contentClass.toUpperCase()}</div>
+            <div><strong>Versions:</strong> ${types.map(t=>labels.type[t]||t).join(" · ")}</div>
+            <div><strong>Status:</strong> ${esc(statusSummary)}</div>
+            <div><strong>Indexed:</strong> ${g.versions.length}</div>
+            <div><strong>Known:</strong> ${g.knownVersions.length}</div>
+            <div><strong>True Harem:</strong> ${labels.verification[groupVerification]}</div>
             ${w.powerClass?`<div><strong>Power:</strong> ${labels.power[w.powerClass]}</div>`:""}
           </div>
           <div class="ani-hover-tags">
             <span class="ani-hover-tag">${w.haremType}</span>
+            ${g.related.length?`<span class="ani-hover-tag related-tag">+${g.related.length} related</span>`:""}
             ${w.powerClass?`<span class="ani-hover-tag power-tag power-${w.powerClass}">${labels.power[w.powerClass]}</span>`:""}
           </div>
         </aside>
@@ -274,7 +316,8 @@
       `</div>`;
   }
 
-  function setWorkUrl(w){
+  function setWorkUrl(group){
+    const w=group.primary;
     const url=new URL(location.href);
     url.searchParams.set("work",key(w));
     history.pushState({work:key(w)},"",url);
@@ -287,30 +330,45 @@
     history.replaceState({},"",url);
   }
 
-  function openDetails(w,syncUrl=true){
-    if(syncUrl) setWorkUrl(w);
+  function versionRow(v){
+    const status=labels.status[v.status]||v.status||"غير معروف";
+    const verify=v.indexed?(labels.verification[v.verification]||v.verification):"Not reviewed";
+    const link=v.indexed?(v.media?.anilist||v.media?.mangadex):v.anilist;
+    return `<div class="version-row ${v.indexed?"indexed":"unreviewed"}">
+      <div class="version-main">
+        <span class="version-type type-${v.type}">${labels.type[v.type]||v.type}</span>
+        <div><strong>${esc(v.title)}</strong><small>${v.indexed?"مفهرسة في True Harem Index":"نسخة معروفة — لم تراجع بعد"}</small></div>
+      </div>
+      <span class="version-status status-${v.status}">${esc(status)}</span>
+      <span class="version-verification">${esc(verify)}</span>
+      ${link?`<a class="version-link" href="${link}" target="_blank" rel="noreferrer">↗</a>`:"<span></span>"}
+    </div>`;
+  }
+
+  function openDetails(group,syncUrl=true){
+    const w=group.primary;
+    if(syncUrl) setWorkUrl(group);
     const links=[
-      w.media.anilist?`<a class="detail-link" href="${w.media.anilist}" target="_blank" rel="noreferrer">AniList ↗</a>`:"",
-      w.media.mangadex?`<a class="detail-link" href="${w.media.mangadex}" target="_blank" rel="noreferrer">MangaDex ↗</a>`:"",
       `<a class="detail-link" href="${w.sourceUrl}" target="_blank" rel="noreferrer">True Harem ↗</a>`
     ].join("");
     $("#dialogContent").innerHTML=`
       <div class="detail-top">
-        <div>${w.media.poster?`<img class="detail-cover" src="${w.media.poster}" alt="${esc(w.title)}" referrerpolicy="no-referrer">`:'<div class="detail-cover cover-placeholder">TH</div>'}</div>
+        <div>${w.media.poster?`<img class="detail-cover" src="${w.media.poster}" alt="${esc(group.title)}" referrerpolicy="no-referrer">`:'<div class="detail-cover cover-placeholder">TH</div>'}</div>
         <div class="detail-info">
-          <h2 id="detailTitle">${esc(w.title)}</h2>
+          <h2 id="detailTitle">${esc(group.title)}</h2>
           <div class="detail-tags">
-            <span class="detail-tag">${labels.type[w.type]}</span>
-            <span class="detail-tag">${labels.status[w.status]}</span>
-            <span class="detail-tag">${labels.origin[w.origin]||w.origin}</span>
-            <span class="detail-tag">${w.haremType}</span>
-            <span class="detail-tag">${w.contentClass.toUpperCase()}</span>
+            ${[...new Set(group.knownVersions.map(v=>v.type))].map(t=>`<span class="detail-tag">${labels.type[t]||t}</span>`).join("")}
             ${w.powerClass?`<span class="detail-tag power-tag power-${w.powerClass}">${labels.power[w.powerClass]}</span>`:""}
           </div>
-          <div class="detail-verification">True Harem: <strong>${labels.verification[w.verification]}</strong></div>
+          <div class="detail-verification">Indexed versions: <strong>${group.versions.length}</strong> · Known versions: <strong>${group.knownVersions.length}</strong></div>
         </div>
       </div>
-      <div class="detail-body"><div class="detail-note">${w.verification==="confirmed"?"هذه النسخة نفسها مؤكدة كـ True Harem.":"المصدر الاصلي مؤكد، لكن الاقتباس الحالي لم يحسم نهائيا بعد."}</div><div class="detail-links">${links}<button id="copyWorkLink" class="detail-link copy-link" type="button">نسخ الرابط</button></div></div>`;
+      <div class="detail-body">
+        <div class="versions-heading">النسخ والحالة</div>
+        <div class="versions-list">${group.knownVersions.map(versionRow).join("")}</div>
+        <div class="detail-note">الحالة تخص كل نسخة بشكل مستقل. النسخ الموسومة Not reviewed معروفة من AniList لكنها لم تعتمد بعد كـ True Harem في هذا الدليل.</div>
+        <div class="detail-links">${links}<button id="copyWorkLink" class="detail-link copy-link" type="button">نسخ الرابط</button></div>
+      </div>`;
     $("#detailDialog").showModal();
     $("#copyWorkLink")?.addEventListener("click",async()=>{
       try{await navigator.clipboard.writeText(location.href);toast("تم نسخ رابط العمل.");}
@@ -379,10 +437,12 @@
 
   async function init(){
     try{const r=await fetch("./posters.json",{cache:"no-store"});if(r.ok)posters=await r.json();}catch{}
+    try{const r=await fetch("./related-media.json",{cache:"no-store"});if(r.ok)relatedMedia=await r.json();}catch{}
     renderAllSelects();renderTypeTabs();renderActiveFilters();syncFilterCount();renderGrid();renderSources();
     const requested=new URL(location.href).searchParams.get("work");
     if(requested){
-      const match=merged().find(w=>key(w)===requested);
+      const groups=groupAll();
+      const match=groups.find(g=>g.versions.some(w=>key(w)===requested));
       if(match) openDetails(match,false);
     }
   }
