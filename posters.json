@@ -367,5 +367,334 @@
     "sourcePoster": "https://www.konami.com/products_master/eu_publish/nlking/eu/en/images/59_nlking_gamemain.jpg",
     "coverSource": "Konami",
     "fit": "contain"
+  },
+  "anime::Strike the Blood": {
+    "poster": "./assets/posters-webp/d3b76ee8c6131c27.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18277-Vwm314Nr6vsg.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/18277",
+    "aniListId": 18277
+  },
+  "anime::The Testament of Sister New Devil": {
+    "poster": "./assets/posters-webp/dcb0f35ce0c36c44.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20678-58D9Yhi4GcH2.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/20678",
+    "aniListId": 20678
+  },
+  "anime::Conception": {
+    "poster": "./assets/posters-webp/015f3dc9deae9150.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101609-CRv6x3ifnius.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/101609",
+    "aniListId": 101609
+  },
+  "anime::Campione!": {
+    "poster": "./assets/posters-webp/ecc60fa152c1045d.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12293-DKc0XJ0cacSZ.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/12293",
+    "aniListId": 12293
+  },
+  "anime::The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far": {
+    "poster": "./assets/posters-webp/dcbc2f56835aab53.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153332-k3Jg04E9jNRo.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/153332",
+    "aniListId": 153332
+  },
+  "anime::High School DxD": {
+    "poster": "./assets/posters-webp/1cbf973405aa76da.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/11617",
+    "aniListId": 11617
+  },
+  "anime::Tenchi Muyo! GXP": {
+    "poster": "./assets/posters-webp/a28eca8a14eb2cf2.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1133.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/1133",
+    "aniListId": 1133
+  },
+  "anime::Tenchi Muyo! War on Geminar": {
+    "poster": "./assets/posters-webp/52366d8b38ab6cf6.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5781-35eEKnvpvri8.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/5781",
+    "aniListId": 5781
+  },
+  "anime::Beast Tamer": {
+    "poster": "./assets/posters-webp/b646bb2ec0dc1c38.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150695-UOQF6Zz2iCTX.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/150695",
+    "aniListId": 150695
+  },
+  "anime::Cat Planet Cuties": {
+    "poster": "./assets/posters-webp/14ed2e4e2de853a1.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6166-TzYLyxIl3a6i.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/6166",
+    "aniListId": 6166
+  },
+  "anime::Photon: The Idiot Adventures": {
+    "poster": "./assets/posters-webp/873ce617ed030383.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1944-67lTbV1bRXDK.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/anime/1944",
+    "aniListId": 1944
+  },
+  "manga::How a Realist Hero Rebuilt the Kingdom": {
+    "poster": "./assets/posters-webp/09820c52c99393ca.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98171-H2x8ZR5B4WKo.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/98171",
+    "aniListId": 98171
+  },
+  "manga::Level Up Just By Eating": {
+    "poster": "./assets/posters-webp/d48a74089b6df050.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109072-x3j8OUNVbvZC.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/109072",
+    "aniListId": 109072
+  },
+  "manga::Maga-Tsuki": {
+    "poster": "./assets/posters-webp/85675e47a79c143c.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx57989-QDoc8dulotfm.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/57989",
+    "aniListId": 57989
+  },
+  "manga::Fujimura-kun Mates": {
+    "poster": "./assets/posters-webp/fee33d33e7f95590.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51729-j1ijNJwBVDqT.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/51729",
+    "aniListId": 51729
+  },
+  "manga::Honeymoon Salad": {
+    "poster": "./assets/posters-webp/70807fc018b346e7.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33515-NzFgbRY48RMB.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/33515",
+    "aniListId": 33515
+  },
+  "manga::Undefeated Bahamut Chronicle": {
+    "poster": "./assets/posters-webp/e58dcdce172e89eb.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85613-TrfuOHd0QWvX.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/85613",
+    "aniListId": 85613
+  },
+  "manga::Monster Girl Doctor": {
+    "poster": "./assets/posters-webp/82e74100f562743f.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101286-5G17y1eP6pbl.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/101286",
+    "aniListId": 101286
+  },
+  "manga::I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!": {
+    "poster": "./assets/posters-webp/65863493821a1bf4.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139031-XCGtvPY7bXOl.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/139031",
+    "aniListId": 139031
+  },
+  "manga::I'm a NEET but when I went to Hello Work I got taken to another world": {
+    "poster": "./assets/posters-webp/53beed805c6dd2d4.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx101604-zZauFiwDzTn4.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/101604",
+    "aniListId": 101604
+  },
+  "manga::Tou no Kanri o Shite Miyou": {
+    "poster": "./assets/posters-webp/152a8a7b4b9092b9.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103736-UJaHwfsYreuT.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/103736",
+    "aniListId": 103736
+  },
+  "manga::Reborn as a Barrier Master": {
+    "poster": "./assets/posters-webp/2723acb49ab67934.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110974-LzPOwOrIPRJM.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/110974",
+    "aniListId": 110974
+  },
+  "manga::Magic Stone Gourmet: Eating Magical Power Made Me The Strongest": {
+    "poster": "./assets/posters-webp/c66a605939857042.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110022-1qaIds3A78Zw.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/110022",
+    "aniListId": 110022
+  },
+  "manga::Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon": {
+    "poster": "./assets/posters-webp/a72fb69695b0def4.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106233-Tsf8vOdkCtNy.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/106233",
+    "aniListId": 106233
+  },
+  "manga::Survival in Another World with My Mistress!": {
+    "poster": "./assets/posters-webp/f2792119f376d40d.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123747-h4wfY7UR09lb.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/123747",
+    "aniListId": 123747
+  },
+  "manga::UQ Holder!": {
+    "poster": "./assets/posters-webp/87c73097c66da3fc.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55151-ua2lFiPlQxyK.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/85151",
+    "aniListId": 85151
+  },
+  "manga::How NOT to Summon a Demon Lord": {
+    "poster": "./assets/posters-webp/ed8979bf3c0fa569.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86338-Z9RsXBc7Ao16.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/86338",
+    "aniListId": 86338
+  },
+  "manga::Humans are the Strongest Race": {
+    "poster": "./assets/posters-webp/13a760aa38d8b6d9.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107305-hZJ1fC7gSmC7.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/107305",
+    "aniListId": 107305
+  },
+  "manga::My Room Is a Dungeon Rest Stop": {
+    "poster": "./assets/posters-webp/e0d8984eb944a25d.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99573-Gba9MXugqLdq.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/99573",
+    "aniListId": 99573
+  },
+  "manga::The Testament of Sister New Devil": {
+    "poster": "./assets/posters-webp/f0dac2130980bc9d.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx81755-Jm1ROIB2RFKp.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/81755",
+    "aniListId": 81755
+  },
+  "manga::The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat": {
+    "poster": "./assets/posters-webp/6e559bfba40cf5dd.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107603-OX3eYJ4shBtv.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/107603",
+    "aniListId": 107603
+  },
+  "manga::The Master of Ragnarok & Blesser of Einherjar": {
+    "poster": "./assets/posters-webp/dcd5b5a22849b278.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96418-I3RpA6N4FZ15.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/96418",
+    "aniListId": 96418
+  },
+  "manhwa::The Book Eating Magician": {
+    "poster": "./assets/posters-webp/f72d3aff79e3a900.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137375-ujjseCQWuw2C.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/137375",
+    "aniListId": 137375
+  },
+  "manhwa::My Blasted Reincarnated Life": {
+    "poster": "./assets/posters-webp/36e68d1067fe04a5.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151512-q0Xddr1JNKNq.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/151512",
+    "aniListId": 151512
+  },
+  "manhwa::The Knight King Who Returned with a God": {
+    "poster": "./assets/posters-webp/d848a9dc4998baa9.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165287-ZXv2LuVMn7cQ.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/165287",
+    "aniListId": 165287
+  },
+  "manhwa::The Heavenly Demon Wants a Quiet Life": {
+    "poster": "./assets/posters-webp/482f6d51ad144589.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185816-DhnjJEpwiur1.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/185816",
+    "aniListId": 185816
+  },
+  "manhwa::Time-Limited Genius Dark Knight": {
+    "poster": "./assets/posters-webp/38a84ad898086130.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165182-k4Jfk2XMkylP.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/165182",
+    "aniListId": 165182
+  },
+  "manhwa::MEMORIZE": {
+    "poster": "./assets/posters-webp/4c158a7c8deea20d.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124846-LbVOcyoiG0Yl.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/124846",
+    "aniListId": 124846
+  },
+  "manhwa::The Second Coming of Gluttony": {
+    "poster": "./assets/posters-webp/6c84f77f0183d818.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114198-0qSpHmfzpv5K.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/114198",
+    "aniListId": 114198
+  },
+  "manhua::My Female Apprentices Are All Future Big Shots": {
+    "poster": "./assets/posters-webp/e0c6b24181760963.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b145325-eTItFlDmktEY.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/145325",
+    "aniListId": 145325
+  },
+  "manhua::I Opened a Harem in Hell": {
+    "poster": "./assets/posters-webp/347221e0da139cef.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b148360-lYJpByiZ2egB.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/148360",
+    "aniListId": 148360
+  },
+  "manhua::Dark Star King": {
+    "poster": "./assets/posters-webp/cb8ec82a5ab81d77.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121763-x7lu5wiUI5jl.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/121763",
+    "aniListId": 121763
+  },
+  "manhua::The Time of Rebirth": {
+    "poster": "./assets/posters-webp/5f7bc244605c91b6.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b141102-4L1qUUVpsKz6.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/141102",
+    "aniListId": 141102
+  },
+  "manhua::The Super Doctor From 2089": {
+    "poster": "./assets/posters-webp/04b6f0d064bc279a.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118698-l01QBgf0LgmQ.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/118698",
+    "aniListId": 118698
+  },
+  "manhua::Immortal Swordsman in Reverse World": {
+    "poster": "./assets/posters-webp/628dd5869ae6a505.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116027-G6af8xtMPXJH.png",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/116027",
+    "aniListId": 116027
+  },
+  "manhua::I Eat Soft Rice in Another World": {
+    "poster": "./assets/posters-webp/7e7feb5e31c9849a.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159301-zlQC2YuT8Wcy.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/159301",
+    "aniListId": 159301
+  },
+  "manhua::Rise of the Mountain Chief": {
+    "poster": "./assets/posters-webp/5c0ea07d3248278e.webp",
+    "sourcePoster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141581-3zcr6ZiU5nrR.jpg",
+    "coverSource": "AniList",
+    "anilist": "https://anilist.co/manga/141581",
+    "aniListId": 141581
   }
 }

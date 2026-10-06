@@ -6,14 +6,14 @@
 
   const labels = {
     type:{anime:"Anime",manga:"Manga",manhwa:"Manhwa",manhua:"Manhua",novel:"Light Novel",game:"Game"},
-    status:{complete:"مكتمل",ongoing:"مستمر",hiatus:"Hiatus",unknown:"غير محسوم"},
+    status:{complete:"مكتمل",ongoing:"مستمر",hiatus:"Hiatus",cancelled:"Cancelled",unknown:"غير محسوم"},
     verification:{confirmed:"مؤكد","source-only":"المصدر مؤكد"},
     origin:{JP:"Japan",KR:"Korea",CN:"China",Other:"Other"},
     power:{op:"Overpowered","grows-op":"Becomes OP","latent-op":"Latent OP"}
   };
 
   const config = {
-    status:{el:"statusFilter",placeholder:"Any",options:[["all","Any"],["complete","Completed"],["ongoing","Ongoing"],["hiatus","Hiatus"],["unknown","Unknown"]]},
+    status:{el:"statusFilter",placeholder:"Any",options:[["all","Any"],["complete","Completed"],["ongoing","Ongoing"],["hiatus","Hiatus"],["cancelled","Cancelled"],["unknown","Unknown"]]},
     verification:{el:"verificationFilter",placeholder:"Any",options:[["all","Any"],["confirmed","Confirmed"],["source-only","Source Confirmed"]]},
     content:{el:"contentFilter",placeholder:"Any",options:[["all","Any"],["sfw","SFW"],["ecchi","Ecchi"]]},
     sort:{el:"sortFilter",placeholder:"Featured",options:[["featured","Featured"],["title","Title"],["complete","Completed First"]]},
