@@ -100,7 +100,7 @@ window.TRUE_HAREM_DATA = {
     ["The Academy’s Sashimi Sword Master","manhwa","KR","ongoing","FH","source-only","sfw"],
 
     ["My Girlfriend Is a Zombie","manhua","CN","complete","FH","confirmed","ecchi"],
-    ["Evil Young Master Doesn't Want a Bad Ending","manhua","CN","complete","FH","confirmed","sfw"],
+    ["Evil Young Master Doesn't Want a Bad Ending","manhua","CN","complete","FH","confirmed","ecchi"],
     ["Sir, Don't Show Off","manhua","CN","ongoing","FH","source-only","sfw"],
     ["Become the Castellan in Another World","manhua","CN","ongoing","FH","source-only","ecchi"],
     ["Catastrophic Necromancer","manhua","CN","ongoing","FH","source-only","sfw"],
