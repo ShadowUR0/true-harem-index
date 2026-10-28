@@ -97,7 +97,7 @@ window.TRUE_HAREM_DATA = {
     ["Seoul Station's Necromancer","manhwa","KR","complete","FH","source-only","sfw"],
     ["Surviving in a Romance Fantasy Novel","manhwa","KR","cancelled","FH","source-only","sfw"],
     ["The Demon Prince Goes to the Academy","manhwa","KR","complete","FH","source-only","sfw"],
-    ["The Academy’s Sashimi Sword Master","manhwa","KR","ongoing","FH","source-only","sfw"],
+    ["The Academy’s Sashimi Sword Master","manhwa","KR","ongoing","FH","source-only","ecchi"],
 
     ["My Girlfriend Is a Zombie","manhua","CN","complete","FH","confirmed","ecchi"],
     ["Evil Young Master Doesn't Want a Bad Ending","manhua","CN","complete","FH","confirmed","ecchi"],
@@ -156,7 +156,7 @@ window.TRUE_HAREM_DATA = {
     ["Omamori Himari","manga","JP","complete","FH","confirmed","ecchi"],
     ["Love Tyrant","manga","JP","complete","FH","confirmed","ecchi"],
     ["Trapped in a Dating Sim","manga","JP","ongoing","FH","source-only","ecchi"],
-    ["The 8th Son? Are You Kidding Me?","manga","JP","ongoing","FH","source-only","sfw"],
+    ["The 8th Son? Are You Kidding Me?","manga","JP","ongoing","FH","source-only","ecchi"],
     ["Madan no Ou to Vanadis","manga","JP","complete","FH","confirmed","ecchi"],
     ["An Ideal Lazy Life","manga","JP","complete","FH","confirmed","ecchi"],
     ["How a Realist Hero Rebuilt the Kingdom","manga","JP","ongoing","FH","source-only","sfw"],
