@@ -108,7 +108,7 @@ window.TRUE_HAREM_DATA = {
     ["My Harem Grew So Large, I Was Forced to Ascend","manhua","CN","complete","FH","confirmed","ecchi"],
     ["My Harem Consists Entirely of Female Demon Villains","manhua","CN","complete","FH","confirmed","ecchi"],
     ["Martial Peak","manhua","CN","ongoing","FH","source-only","ecchi"],
-    ["I Am the Fated Villain","manhua","CN","ongoing","FH","source-only","sfw"],
+    ["I Am the Fated Villain","manhua","CN","ongoing","FH","source-only","ecchi"],
     ["Qi Refinement For 3,000 Years","manhua","CN","complete","FH","confirmed","sfw"],
     ["My Female Apprentices Are All Future Big Shots","manhua","CN","ongoing","FH","source-only","sfw"],
     ["I Opened a Harem in Hell","manhua","CN","hiatus","FH","source-only","ecchi"],
